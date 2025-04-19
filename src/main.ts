@@ -7,9 +7,9 @@ import { addLine, closeFile, openFile } from "./file";
  * - ♣: Club (Paus) - BLACK 
  * - ♥: Heart (Copas) - RED 
  */
-type Suit = '♠' | '♦' | '♣' | '♥';
+export type Suit = '♠' | '♦' | '♣' | '♥';
 
-type BetOption = (
+export type BetOption = (
     | 'red'
     | 'black'
     | 'oneSpade'
@@ -20,17 +20,17 @@ type BetOption = (
     | 'points20to30'
 );
 
-type BetChips = {
+export type BetChips = {
     chips: number;
     multiplyUntil: number;
 }
 
-type Bet = {
+export type Bet = {
     chips: number;
     raffles: number;
 } & Partial<Record<BetOption, BetChips>>;
 
-const award : Record<BetOption, number> = {
+export const award : Record<BetOption, number> = {
     red: 1.9,
     black: 1.9,
     oneSpade: 2.06,
@@ -41,18 +41,18 @@ const award : Record<BetOption, number> = {
     points20to30: 1.81,
 }
 
-const cards = [
+export const cards = [
     '2♠', '3♠', '4♠', '5♠', '6♠', '7♠', '8♠', '9♠', 'T♠', 'J♠', 'Q♠', 'K♠', 'A♠',
     '2♦', '3♦', '4♦', '5♦', '6♦', '7♦', '8♦', '9♦', 'T♦', 'J♦', 'Q♦', 'K♦', 'A♦',
     '2♣', '3♣', '4♣', '5♣', '6♣', '7♣', '8♣', '9♣', 'T♣', 'J♣', 'Q♣', 'K♣', 'A♣',
     '2♥', '3♥', '4♥', '5♥', '6♥', '7♥', '8♥', '9♥', 'T♥', 'J♥', 'Q♥', 'K♥', 'A♥'
 ];
 
-const random = (min: number = 0, max: number = 51): number => (
+export const random = (min: number = 0, max: number = 51): number => (
     Math.floor(Math.random() * (max - min + 1) + min)
 );
 
-const raffle = (amount: number = 3) : string[] => {
+export const raffle = (amount: number = 3) : string[] => {
 
     const drawn: number[] = [];
 
@@ -65,7 +65,7 @@ const raffle = (amount: number = 3) : string[] => {
 
 }
 
-const color = (cards: string[]) : 'BLACK' | 'RED' | 'NEUTRAL' => {
+export const color = (cards: string[]) : 'BLACK' | 'RED' | 'NEUTRAL' => {
 
     let black = 0;
     let red = 0;
@@ -78,7 +78,7 @@ const color = (cards: string[]) : 'BLACK' | 'RED' | 'NEUTRAL' => {
 
 };
 
-const amount = (cards: string[]) : Record<Suit, number> => {
+export const amount = (cards: string[]) : Record<Suit, number> => {
 
     const suit : Record<Suit, number> = {
         '♠': 0, '♦': 0, '♣': 0, '♥': 0
@@ -92,7 +92,7 @@ const amount = (cards: string[]) : Record<Suit, number> => {
 
 }
 
-const points = (cards: string[]) : number => {
+export const points = (cards: string[]) : number => {
 
     let sum : number = 0;
 
@@ -120,7 +120,8 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
     let chips = bet.chips;
 
     const file = openFile(fileName);
-    addLine(file, `Initial Chips: ${chips}`);
+    addLine(file, `Bet: ${ JSON.stringify(bet) }`);
+    addLine(file, `\nInitial Chips: ${chips}`);
 
     let wrong : Record<BetOption, number> = {
         red: 0,
