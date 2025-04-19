@@ -1,10 +1,10 @@
 
 /**
- * Suit (Naipes)
- * ♠: Spade (Espadas) - BLACK 
- * ♦: Diamond (Ouros) - RED 
- * ♣: Club (Paus) - BLACK 
- * ♥: Heart (Copas) - RED 
+ * ## Suit (Naipes)
+ * - ♠: Spade (Espadas) - BLACK 
+ * - ♦: Diamond (Ouros) - RED 
+ * - ♣: Club (Paus) - BLACK 
+ * - ♥: Heart (Copas) - RED 
  */
 const cards = [
     '2♠', '3♠', '4♠', '5♠', '6♠', '7♠', '8♠', '9♠', 'T♠', 'J♠', 'Q♠', 'K♠', 'A♠',
@@ -30,4 +30,35 @@ const raffle = (amount: number = 3) : string[] => {
 
 }
 
-console.log(raffle());
+const color = (cards: string[]) : 'BLACK' | 'RED' | 'NEUTRAL' => {
+
+    let black = 0;
+    let red = 0;
+
+    cards.forEach(card => {
+        card.charAt(1) === '♠' || card.charAt(1) === '♣' ? black++ : red++;
+    });
+
+    return black > red ? 'BLACK' : red > black ? 'RED' : 'NEUTRAL';
+
+};
+
+const main = () => {
+
+    let chips : number = 30000;
+    const bet : number = 200;
+    
+    while (chips > 0) {
+
+        chips -= bet;
+
+        const r = raffle();
+        const c = color(r);
+        
+        if(c === 'RED') chips += bet * 1.8;
+
+        console.log(r, c, chips);
+        
+    }
+
+}
