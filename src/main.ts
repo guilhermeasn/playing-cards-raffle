@@ -115,13 +115,16 @@ export const points = (cards: string[]) : number => {
 
 }
 
-export const toPlay = (fileName: string, bet : Bet) : number => {
+export const toPlay = (bet : Bet, fileName: string | null = null) : number => {
 
     let chips = bet.chips;
 
-    const file = openFile(fileName);
-    addLine(file, `Bet: ${ JSON.stringify(bet) }`);
-    addLine(file, `\nInitial Chips: ${chips}`);
+    const file = fileName ? openFile(fileName) : null;
+
+    if(file) {
+        addLine(file, `Bet: ${ JSON.stringify(bet) }`);
+        addLine(file, `\nInitial Chips: ${chips}`);
+    }
 
     let wrong : Record<BetOption, number> = {
         red: 0,
@@ -141,7 +144,7 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
         const a = amount(r);
         const p = points(r);
 
-        addLine(file, `\nRaffle ${ i + 1 }: ${ JSON.stringify(r) }, color: ${ c }, amount: ${ JSON.stringify(a) }, points: ${ p }`);
+        if(file) addLine(file, `\nRaffle ${ i + 1 }: ${ JSON.stringify(r) }, color: ${ c }, amount: ${ JSON.stringify(a) }, points: ${ p }`);
 
         // RED BET
         if(bet.red) {
@@ -160,7 +163,7 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
                 else wrong.red = 0;
             }
 
-            addLine(file, `RED BET: ${ b } chips, ${ c === 'RED' ? 'WON' : 'LOST' }, total ${ chips }`);
+            if(file) addLine(file, `RED BET: ${ b } chips, ${ c === 'RED' ? 'WON' : 'LOST' }, total ${ chips }`);
 
         }
 
@@ -181,7 +184,7 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
                 else wrong.black = 0;
             }
 
-            addLine(file, `BLACK BET: ${ b } chips, ${ c === 'BLACK' ? 'WON' : 'LOST' }, total ${ chips }`);
+            if(file) addLine(file, `BLACK BET: ${ b } chips, ${ c === 'BLACK' ? 'WON' : 'LOST' }, total ${ chips }`);
 
         }
 
@@ -200,7 +203,7 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
                 else wrong.oneSpade = 0;
             }
 
-            addLine(file, `♠ BET: ${ b } chips, ${ a['♠'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
+            if(file) addLine(file, `♠ BET: ${ b } chips, ${ a['♠'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
         }
 
         // One Diamond bet
@@ -218,7 +221,7 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
                 else wrong.oneDiamond = 0;
             }
 
-            addLine(file, `♦ BET: ${ b } chips, ${ a['♦'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
+            if(file) addLine(file, `♦ BET: ${ b } chips, ${ a['♦'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
         }
 
         // One Club bet
@@ -236,7 +239,7 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
                 else wrong.oneClub = 0;
             }
 
-            addLine(file, `♣ BET: ${ b } chips, ${ a['♣'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
+            if(file) addLine(file, `♣ BET: ${ b } chips, ${ a['♣'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
         }
 
         // One Heart bet
@@ -254,7 +257,7 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
                 else wrong.oneHeart = 0;
             }
 
-            addLine(file, `♥ BET: ${ b } chips, ${ a['♥'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
+            if(file) addLine(file, `♥ BET: ${ b } chips, ${ a['♥'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
         }
 
         // Points 3 to 19 bet
@@ -272,7 +275,7 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
                 else wrong.points3to19 = 0;
             }
 
-            addLine(file, `POINTS 3-19 BET: ${ b } chips, ${ (p >= 3 && p <= 19) ? 'WON' : 'LOST' }, total ${ chips }`);
+            if(file) addLine(file, `POINTS 3-19 BET: ${ b } chips, ${ (p >= 3 && p <= 19) ? 'WON' : 'LOST' }, total ${ chips }`);
         }
 
         // Points 20 to 30 bet
@@ -290,14 +293,15 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
                 else wrong.points20to30 = 0;
             }
 
-            addLine(file, `POINTS 20-30 BET: ${ b } chips, ${ (p >= 20 && p <= 30) ? 'WON' : 'LOST' }, total ${ chips }`);
+            if(file) addLine(file, `POINTS 20-30 BET: ${ b } chips, ${ (p >= 20 && p <= 30) ? 'WON' : 'LOST' }, total ${ chips }`);
         }
 
     }
 
-    addLine(file, `\nFinal Chips: ${ chips }`);
-    closeFile(file);
-
+    if(file) {
+        addLine(file, `\nFinal Chips: ${ chips }`);
+        closeFile(file);
+    }
     return chips;
 
 }
