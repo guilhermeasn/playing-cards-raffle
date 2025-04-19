@@ -1,4 +1,4 @@
-# Playing Cardsr Raffle
+# Playing Cards Raffle
 
 RallyAces Poker style playing card draw betting simulator
 
