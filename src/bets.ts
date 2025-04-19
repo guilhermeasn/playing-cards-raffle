@@ -1,21 +1,26 @@
 import { Bet } from "./main";
 
 export const bets : Bet[] = [
+
+    {
+        chips: 50000,
+        raffles: 20, 
+        red: {
+            chips: 2000,
+            multiplyUntil: 0
+        }
+    },
     
     {
         chips: 50000,
-        raffles: 200, 
+        raffles: 30, 
         red: {
             chips: 200,
-            multiplyUntil: 3
-        },
-        oneSpade: {
-            chips: 200,
-            multiplyUntil: 1
+            multiplyUntil: 0
         },
         points3to19: {
-            chips: 400,
-            multiplyUntil: 2
+            chips: 800,
+            multiplyUntil: 0
         }
     },
 
@@ -43,10 +48,10 @@ export const bets : Bet[] = [
 
     {
         chips: 50000,
-        raffles: 200,
+        raffles: 1000,
         points3to19: {
             chips: 200,
-            multiplyUntil: 4
+            multiplyUntil: 10
         }
     },
 
@@ -85,15 +90,30 @@ export const bets : Bet[] = [
         raffles: 200,
         black: {
             chips: 200,
-            multiplyUntil: 0
+            multiplyUntil: 1
         },
         oneClub: {
             chips: 200,
-            multiplyUntil: 0
+            multiplyUntil: 1
         },
         oneSpade: {
             chips: 200,
-            multiplyUntil: 0
+            multiplyUntil: 1
+        }
+    }, {
+        chips: 50000,
+        raffles: 200,
+        black: {
+            chips: 200,
+            multiplyUntil: 1
+        },
+        oneClub: {
+            chips: 200,
+            multiplyUntil: 1
+        },
+        oneSpade: {
+            chips: 200,
+            multiplyUntil: 1
         }
     }
     

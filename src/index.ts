@@ -14,11 +14,13 @@ const media = (array: number[]): number => {
 
 const now = dayjs();
 const fileName : string = `simulation_${now.format('YYYY-MM-DD_HH')}h${now.format('mm')}m${now.format('ss')}s_${ Math.random().toString(36).substr(2, 9) }`;
+const bet : Bet = bets[3];
+
+toPlay(bet, fileName);
 
 (async () => {
 
     const result : number[] = [];
-    const bet : Bet = bets[6];
 
     for(let c = 0; c < 100; c++) {
 
