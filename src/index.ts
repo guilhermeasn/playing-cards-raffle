@@ -7,8 +7,5 @@ const fileName : string = `simulation_${now.format('YYYY-MM-DD_HH')}h${now.forma
 toPlay(fileName, {
     chips: 30000,
     raffles: 1000,
-    red: {
-        chips: 200,
-        multiplyUntil: 4
-    }
+    
 });

@@ -142,9 +142,11 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
 
         addLine(file, `\nRaffle ${ i + 1 }: ${ JSON.stringify(r) }, color: ${ c }, amount: ${ JSON.stringify(a) }, points: ${ p }`);
 
+        // RED BET
         if(bet.red) {
 
-            const b = bet.red.chips * (wrong.red + 1)
+            let b = bet.red.chips
+            for(let j = 0; j < wrong.red; j++) b *= 2;
             chips -= b;
 
             if(chips < 0) break;
@@ -160,6 +162,46 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
             addLine(file, `RED BET: ${ b } chips, ${ c === 'RED' ? 'WON' : 'LOST' }, total ${ chips }`);
 
         }
+
+        // BLACK BET
+        if(bet.black) {
+
+            let b = bet.black.chips
+            for(let j = 0; j < wrong.black; j++) b *= 2;
+            chips -= b;
+
+            if(chips < 0) break;
+            
+            if(c === 'BLACK') {
+                chips += b * award.black;
+                wrong.black = 0;
+            } else {
+                if(bet.black.multiplyUntil > wrong.black) wrong.black++;
+                else wrong.black = 0;
+            }
+
+            addLine(file, `BLACK BET: ${ b } chips, ${ c === 'BLACK' ? 'WON' : 'LOST' }, total ${ chips }`);
+
+        }
+
+        // One Spade bet
+
+
+        // One Diamond bet
+
+
+        // One Club bet
+
+
+        // One Heart bet
+
+
+        // Points 3 to 19 bet
+
+
+        // Points 20 to 30 bet
+
+        
 
     }
 
