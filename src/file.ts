@@ -10,3 +10,7 @@ export const openFile = (name: string) : WriteStream => {
 export const addLine = (stream: WriteStream, line: string) => {
     stream.write(line + '\n');
 }
+
+export const closeFile = (stream: WriteStream) => {
+    stream.end();
+}

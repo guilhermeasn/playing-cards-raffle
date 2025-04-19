@@ -1,4 +1,4 @@
-import { addLine, openFile } from "./file";
+import { addLine, closeFile, openFile } from "./file";
 
 /**
  * ## Suit (Naipes)
@@ -295,6 +295,7 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
     }
 
     addLine(file, `\nFinal Chips: ${ chips }`);
+    closeFile(file);
 
     return chips;
 
