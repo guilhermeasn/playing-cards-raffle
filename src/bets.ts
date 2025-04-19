@@ -80,6 +80,21 @@ export const bets : Bet[] = [
             chips: 200,
             multiplyUntil: 0
         }
+    }, {
+        chips: 50000,
+        raffles: 200,
+        black: {
+            chips: 200,
+            multiplyUntil: 0
+        },
+        oneClub: {
+            chips: 200,
+            multiplyUntil: 0
+        },
+        oneSpade: {
+            chips: 200,
+            multiplyUntil: 0
+        }
     }
     
 ];

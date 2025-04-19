@@ -18,7 +18,7 @@ const fileName : string = `simulation_${now.format('YYYY-MM-DD_HH')}h${now.forma
 (async () => {
 
     const result : number[] = [];
-    const bet : Bet = bets[5];
+    const bet : Bet = bets[6];
 
     for(let c = 0; c < 100; c++) {
 
