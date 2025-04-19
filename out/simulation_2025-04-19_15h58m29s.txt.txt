@@ -1,0 +1,3003 @@
+Initial Chips: 30000
+
+Raffle 1: ["J♣","Q♣","T♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 30
+RED BET: 200 chips, LOST, total 29800
+
+Raffle 2: ["A♣","Q♥","4♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 15
+RED BET: 400 chips, WON, total 30160
+
+Raffle 3: ["3♣","3♦","A♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 7
+RED BET: 200 chips, WON, total 30340
+
+Raffle 4: ["6♣","A♦","Q♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 30140
+
+Raffle 5: ["7♥","5♥","3♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 15
+RED BET: 400 chips, WON, total 30500
+
+Raffle 6: ["7♥","K♦","6♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 23
+RED BET: 200 chips, WON, total 30680
+
+Raffle 7: ["6♦","8♥","4♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 18
+RED BET: 200 chips, WON, total 30860
+
+Raffle 8: ["6♣","4♣","3♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":3,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 30660
+
+Raffle 9: ["7♣","A♥","3♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 11
+RED BET: 400 chips, WON, total 31020
+
+Raffle 10: ["3♠","7♣","6♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 16
+RED BET: 200 chips, LOST, total 30820
+
+Raffle 11: ["3♥","9♣","A♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 13
+RED BET: 400 chips, LOST, total 30420
+
+Raffle 12: ["A♠","4♠","Q♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 15
+RED BET: 600 chips, LOST, total 29820
+
+Raffle 13: ["3♣","5♦","3♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 11
+RED BET: 800 chips, WON, total 30540
+
+Raffle 14: ["8♠","J♦","T♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 28
+RED BET: 200 chips, LOST, total 30340
+
+Raffle 15: ["4♠","T♣","9♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 23
+RED BET: 400 chips, LOST, total 29940
+
+Raffle 16: ["J♠","5♥","6♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 21
+RED BET: 600 chips, LOST, total 29340
+
+Raffle 17: ["5♠","6♠","J♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 21
+RED BET: 800 chips, LOST, total 28540
+
+Raffle 18: ["Q♦","3♠","K♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 23
+RED BET: 1000 chips, WON, total 29440
+
+Raffle 19: ["3♣","Q♣","8♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 29240
+
+Raffle 20: ["A♥","3♠","5♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 9
+RED BET: 400 chips, LOST, total 28840
+
+Raffle 21: ["5♦","A♠","4♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 10
+RED BET: 600 chips, LOST, total 28240
+
+Raffle 22: ["5♠","4♥","8♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 17
+RED BET: 800 chips, LOST, total 27440
+
+Raffle 23: ["A♠","2♥","T♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 13
+RED BET: 1000 chips, LOST, total 26440
+
+Raffle 24: ["A♠","K♣","4♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 26240
+
+Raffle 25: ["A♠","Q♥","3♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 14
+RED BET: 400 chips, LOST, total 25840
+
+Raffle 26: ["5♦","K♣","5♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 20
+RED BET: 600 chips, LOST, total 25240
+
+Raffle 27: ["K♥","2♥","7♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 19
+RED BET: 800 chips, WON, total 25960
+
+Raffle 28: ["7♦","8♣","3♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 25760
+
+Raffle 29: ["9♥","Q♦","3♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 22
+RED BET: 400 chips, WON, total 26120
+
+Raffle 30: ["Q♣","7♥","5♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 22
+RED BET: 200 chips, LOST, total 25920
+
+Raffle 31: ["K♣","5♣","5♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 20
+RED BET: 400 chips, LOST, total 25520
+
+Raffle 32: ["A♣","9♦","4♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 14
+RED BET: 600 chips, WON, total 26060
+
+Raffle 33: ["8♦","9♠","6♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 23
+RED BET: 200 chips, WON, total 26240
+
+Raffle 34: ["3♥","5♦","6♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 14
+RED BET: 200 chips, WON, total 26420
+
+Raffle 35: ["2♥","3♠","8♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 13
+RED BET: 200 chips, LOST, total 26220
+
+Raffle 36: ["2♠","3♣","J♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 15
+RED BET: 400 chips, LOST, total 25820
+
+Raffle 37: ["J♣","K♣","A♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 21
+RED BET: 600 chips, LOST, total 25220
+
+Raffle 38: ["4♣","6♠","3♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 13
+RED BET: 800 chips, LOST, total 24420
+
+Raffle 39: ["Q♠","T♠","T♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 30
+RED BET: 1000 chips, LOST, total 23420
+
+Raffle 40: ["3♠","5♣","9♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 17
+RED BET: 200 chips, LOST, total 23220
+
+Raffle 41: ["3♥","2♠","9♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 14
+RED BET: 400 chips, WON, total 23580
+
+Raffle 42: ["8♥","7♥","6♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 21
+RED BET: 200 chips, WON, total 23760
+
+Raffle 43: ["9♦","4♠","2♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 15
+RED BET: 200 chips, WON, total 23940
+
+Raffle 44: ["T♦","3♦","2♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 15
+RED BET: 200 chips, WON, total 24120
+
+Raffle 45: ["8♠","A♠","8♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 23920
+
+Raffle 46: ["2♥","T♦","9♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 21
+RED BET: 400 chips, WON, total 24280
+
+Raffle 47: ["J♣","A♠","3♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 14
+RED BET: 200 chips, LOST, total 24080
+
+Raffle 48: ["T♠","Q♠","K♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 30
+RED BET: 400 chips, LOST, total 23680
+
+Raffle 49: ["6♠","T♣","A♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 17
+RED BET: 600 chips, LOST, total 23080
+
+Raffle 50: ["Q♦","Q♥","4♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 24
+RED BET: 800 chips, WON, total 23800
+
+Raffle 51: ["5♠","3♥","9♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 17
+RED BET: 200 chips, LOST, total 23600
+
+Raffle 52: ["Q♥","3♠","8♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 21
+RED BET: 400 chips, WON, total 23960
+
+Raffle 53: ["9♦","K♣","4♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 23760
+
+Raffle 54: ["J♥","Q♥","4♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 24
+RED BET: 400 chips, WON, total 24120
+
+Raffle 55: ["9♦","8♠","A♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 18
+RED BET: 200 chips, WON, total 24300
+
+Raffle 56: ["2♣","3♠","5♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 10
+RED BET: 200 chips, LOST, total 24100
+
+Raffle 57: ["7♣","J♦","3♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 20
+RED BET: 400 chips, WON, total 24460
+
+Raffle 58: ["Q♦","T♣","4♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 24
+RED BET: 200 chips, WON, total 24640
+
+Raffle 59: ["7♠","Q♠","9♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 26
+RED BET: 200 chips, LOST, total 24440
+
+Raffle 60: ["9♠","5♥","8♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 22
+RED BET: 400 chips, WON, total 24800
+
+Raffle 61: ["5♠","6♣","K♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 24600
+
+Raffle 62: ["4♣","K♦","7♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 21
+RED BET: 400 chips, WON, total 24960
+
+Raffle 63: ["2♣","2♥","Q♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 14
+RED BET: 200 chips, LOST, total 24760
+
+Raffle 64: ["K♦","3♠","4♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 17
+RED BET: 400 chips, LOST, total 24360
+
+Raffle 65: ["2♦","A♠","6♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 9
+RED BET: 600 chips, LOST, total 23760
+
+Raffle 66: ["A♥","Q♥","8♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 19
+RED BET: 800 chips, WON, total 24480
+
+Raffle 67: ["8♣","K♦","3♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 24280
+
+Raffle 68: ["5♦","3♣","8♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 16
+RED BET: 400 chips, LOST, total 23880
+
+Raffle 69: ["9♦","K♥","Q♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 29
+RED BET: 600 chips, WON, total 24420
+
+Raffle 70: ["T♦","7♠","2♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 19
+RED BET: 200 chips, WON, total 24600
+
+Raffle 71: ["3♠","7♦","4♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 14
+RED BET: 200 chips, LOST, total 24400
+
+Raffle 72: ["2♥","8♣","Q♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 20
+RED BET: 400 chips, WON, total 24760
+
+Raffle 73: ["8♠","A♠","J♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 19
+RED BET: 200 chips, LOST, total 24560
+
+Raffle 74: ["A♦","J♦","5♠"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 16
+RED BET: 400 chips, WON, total 24920
+
+Raffle 75: ["8♣","2♥","Q♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 20
+RED BET: 200 chips, LOST, total 24720
+
+Raffle 76: ["5♥","2♣","J♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 17
+RED BET: 400 chips, LOST, total 24320
+
+Raffle 77: ["8♦","8♣","5♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 21
+RED BET: 600 chips, WON, total 24860
+
+Raffle 78: ["5♠","6♣","6♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 24660
+
+Raffle 79: ["5♣","J♣","6♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 21
+RED BET: 400 chips, LOST, total 24260
+
+Raffle 80: ["2♥","T♠","T♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 22
+RED BET: 600 chips, WON, total 24800
+
+Raffle 81: ["9♦","2♠","7♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 18
+RED BET: 200 chips, WON, total 24980
+
+Raffle 82: ["J♣","A♣","4♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 15
+RED BET: 200 chips, LOST, total 24780
+
+Raffle 83: ["5♠","A♣","T♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 16
+RED BET: 400 chips, LOST, total 24380
+
+Raffle 84: ["3♥","7♦","5♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 15
+RED BET: 600 chips, WON, total 24920
+
+Raffle 85: ["7♥","K♣","4♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 21
+RED BET: 200 chips, LOST, total 24720
+
+Raffle 86: ["4♦","9♥","6♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 19
+RED BET: 400 chips, WON, total 25080
+
+Raffle 87: ["4♦","9♠","3♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 16
+RED BET: 200 chips, LOST, total 24880
+
+Raffle 88: ["6♥","2♣","5♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 13
+RED BET: 400 chips, LOST, total 24480
+
+Raffle 89: ["8♣","5♦","Q♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 23
+RED BET: 600 chips, LOST, total 23880
+
+Raffle 90: ["T♥","2♠","4♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 16
+RED BET: 800 chips, WON, total 24600
+
+Raffle 91: ["J♥","K♦","K♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 30
+RED BET: 200 chips, WON, total 24780
+
+Raffle 92: ["2♦","K♣","3♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 15
+RED BET: 200 chips, WON, total 24960
+
+Raffle 93: ["8♦","4♠","5♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 17
+RED BET: 200 chips, WON, total 25140
+
+Raffle 94: ["3♣","5♣","2♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 10
+RED BET: 200 chips, LOST, total 24940
+
+Raffle 95: ["K♠","J♥","K♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 30
+RED BET: 400 chips, WON, total 25300
+
+Raffle 96: ["7♠","4♥","T♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 21
+RED BET: 200 chips, WON, total 25480
+
+Raffle 97: ["A♦","K♦","7♠"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 18
+RED BET: 200 chips, WON, total 25660
+
+Raffle 98: ["Q♥","6♦","T♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 26
+RED BET: 200 chips, WON, total 25840
+
+Raffle 99: ["J♥","T♠","J♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 30
+RED BET: 200 chips, LOST, total 25640
+
+Raffle 100: ["Q♦","9♣","6♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 25
+RED BET: 400 chips, LOST, total 25240
+
+Raffle 101: ["5♠","T♠","J♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 25
+RED BET: 600 chips, LOST, total 24640
+
+Raffle 102: ["A♣","Q♦","5♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 16
+RED BET: 800 chips, LOST, total 23840
+
+Raffle 103: ["6♥","T♠","K♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 26
+RED BET: 1000 chips, WON, total 24740
+
+Raffle 104: ["6♠","5♥","A♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 12
+RED BET: 200 chips, LOST, total 24540
+
+Raffle 105: ["7♥","T♥","7♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 24
+RED BET: 400 chips, WON, total 24900
+
+Raffle 106: ["5♠","Q♦","8♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 24700
+
+Raffle 107: ["T♠","2♣","A♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 13
+RED BET: 400 chips, LOST, total 24300
+
+Raffle 108: ["7♦","4♣","5♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 16
+RED BET: 600 chips, LOST, total 23700
+
+Raffle 109: ["2♥","5♣","6♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 13
+RED BET: 800 chips, LOST, total 22900
+
+Raffle 110: ["8♥","4♦","A♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 13
+RED BET: 1000 chips, WON, total 23800
+
+Raffle 111: ["9♥","Q♦","K♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 29
+RED BET: 200 chips, WON, total 23980
+
+Raffle 112: ["2♠","5♣","6♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 23780
+
+Raffle 113: ["3♣","9♠","5♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 17
+RED BET: 400 chips, LOST, total 23380
+
+Raffle 114: ["9♦","A♣","T♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 20
+RED BET: 600 chips, LOST, total 22780
+
+Raffle 115: ["3♦","4♥","6♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 13
+RED BET: 800 chips, WON, total 23500
+
+Raffle 116: ["9♣","5♣","4♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 18
+RED BET: 200 chips, LOST, total 23300
+
+Raffle 117: ["4♦","9♥","6♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 19
+RED BET: 400 chips, WON, total 23660
+
+Raffle 118: ["Q♥","Q♠","7♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 27
+RED BET: 200 chips, LOST, total 23460
+
+Raffle 119: ["J♥","8♠","A♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 19
+RED BET: 400 chips, WON, total 23820
+
+Raffle 120: ["4♥","T♦","8♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 22
+RED BET: 200 chips, WON, total 24000
+
+Raffle 121: ["2♣","K♠","6♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 18
+RED BET: 200 chips, LOST, total 23800
+
+Raffle 122: ["K♦","Q♣","A♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 21
+RED BET: 400 chips, WON, total 24160
+
+Raffle 123: ["3♥","K♣","8♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 21
+RED BET: 200 chips, WON, total 24340
+
+Raffle 124: ["K♣","J♣","T♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 30
+RED BET: 200 chips, LOST, total 24140
+
+Raffle 125: ["9♠","6♥","9♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 24
+RED BET: 400 chips, LOST, total 23740
+
+Raffle 126: ["J♥","8♦","A♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 19
+RED BET: 600 chips, WON, total 24280
+
+Raffle 127: ["A♠","A♥","K♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 12
+RED BET: 200 chips, WON, total 24460
+
+Raffle 128: ["9♣","T♣","A♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 20
+RED BET: 200 chips, LOST, total 24260
+
+Raffle 129: ["7♣","9♦","Q♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 26
+RED BET: 400 chips, LOST, total 23860
+
+Raffle 130: ["4♠","8♠","5♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 17
+RED BET: 600 chips, LOST, total 23260
+
+Raffle 131: ["A♦","K♠","4♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 15
+RED BET: 800 chips, LOST, total 22460
+
+Raffle 132: ["9♦","3♠","5♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 17
+RED BET: 1000 chips, LOST, total 21460
+
+Raffle 133: ["Q♠","8♥","3♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 21
+RED BET: 200 chips, LOST, total 21260
+
+Raffle 134: ["Q♦","4♠","9♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 23
+RED BET: 400 chips, LOST, total 20860
+
+Raffle 135: ["K♣","3♥","2♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 15
+RED BET: 600 chips, LOST, total 20260
+
+Raffle 136: ["8♥","K♣","J♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 28
+RED BET: 800 chips, WON, total 20980
+
+Raffle 137: ["9♦","6♠","8♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 20780
+
+Raffle 138: ["9♣","A♦","9♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 19
+RED BET: 400 chips, WON, total 21140
+
+Raffle 139: ["3♦","6♣","9♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 18
+RED BET: 200 chips, WON, total 21320
+
+Raffle 140: ["8♥","2♦","A♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 11
+RED BET: 200 chips, WON, total 21500
+
+Raffle 141: ["9♦","7♠","5♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 21300
+
+Raffle 142: ["T♠","A♠","Q♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 21
+RED BET: 400 chips, LOST, total 20900
+
+Raffle 143: ["4♠","6♥","3♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 13
+RED BET: 600 chips, WON, total 21440
+
+Raffle 144: ["K♦","2♠","5♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 21240
+
+Raffle 145: ["K♠","4♥","2♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 16
+RED BET: 400 chips, WON, total 21600
+
+Raffle 146: ["A♣","3♣","7♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 11
+RED BET: 200 chips, LOST, total 21400
+
+Raffle 147: ["8♥","2♦","Q♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 20
+RED BET: 400 chips, WON, total 21760
+
+Raffle 148: ["T♦","J♦","Q♠"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 30
+RED BET: 200 chips, WON, total 21940
+
+Raffle 149: ["7♥","A♦","Q♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 18
+RED BET: 200 chips, WON, total 22120
+
+Raffle 150: ["4♦","8♠","9♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 21
+RED BET: 200 chips, WON, total 22300
+
+Raffle 151: ["A♠","3♥","J♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 14
+RED BET: 200 chips, LOST, total 22100
+
+Raffle 152: ["3♥","3♠","Q♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 16
+RED BET: 400 chips, LOST, total 21700
+
+Raffle 153: ["K♥","6♦","4♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 20
+RED BET: 600 chips, WON, total 22240
+
+Raffle 154: ["Q♣","9♦","T♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 29
+RED BET: 200 chips, WON, total 22420
+
+Raffle 155: ["A♠","6♣","K♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 22220
+
+Raffle 156: ["Q♣","3♠","J♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 23
+RED BET: 400 chips, LOST, total 21820
+
+Raffle 157: ["5♦","K♣","6♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 21
+RED BET: 600 chips, WON, total 22360
+
+Raffle 158: ["8♦","A♠","2♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 11
+RED BET: 200 chips, LOST, total 22160
+
+Raffle 159: ["T♥","2♦","3♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 15
+RED BET: 400 chips, WON, total 22520
+
+Raffle 160: ["T♥","6♠","3♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 19
+RED BET: 200 chips, WON, total 22700
+
+Raffle 161: ["A♠","T♣","6♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 22500
+
+Raffle 162: ["6♠","3♣","Q♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 19
+RED BET: 400 chips, LOST, total 22100
+
+Raffle 163: ["5♥","2♦","3♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 10
+RED BET: 600 chips, WON, total 22640
+
+Raffle 164: ["A♠","3♦","2♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 6
+RED BET: 200 chips, LOST, total 22440
+
+Raffle 165: ["8♣","9♠","Q♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 27
+RED BET: 400 chips, LOST, total 22040
+
+Raffle 166: ["2♣","A♣","Q♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":3,"♥":0}, points: 13
+RED BET: 600 chips, LOST, total 21440
+
+Raffle 167: ["J♠","T♦","7♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 27
+RED BET: 800 chips, LOST, total 20640
+
+Raffle 168: ["6♥","8♣","T♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 24
+RED BET: 1000 chips, LOST, total 19640
+
+Raffle 169: ["8♠","T♣","7♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 25
+RED BET: 200 chips, LOST, total 19440
+
+Raffle 170: ["3♠","8♦","4♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 15
+RED BET: 400 chips, WON, total 19800
+
+Raffle 171: ["2♣","3♥","5♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 10
+RED BET: 200 chips, WON, total 19980
+
+Raffle 172: ["5♠","T♣","2♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 19780
+
+Raffle 173: ["7♥","K♠","2♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 19
+RED BET: 400 chips, LOST, total 19380
+
+Raffle 174: ["9♣","7♠","Q♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 26
+RED BET: 600 chips, LOST, total 18780
+
+Raffle 175: ["7♣","A♦","J♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 18
+RED BET: 800 chips, WON, total 19500
+
+Raffle 176: ["4♦","5♣","2♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 11
+RED BET: 200 chips, LOST, total 19300
+
+Raffle 177: ["K♥","2♦","3♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 15
+RED BET: 400 chips, WON, total 19660
+
+Raffle 178: ["9♥","A♦","6♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 16
+RED BET: 200 chips, WON, total 19840
+
+Raffle 179: ["9♣","5♦","7♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 19640
+
+Raffle 180: ["6♣","Q♦","K♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 26
+RED BET: 400 chips, WON, total 20000
+
+Raffle 181: ["5♦","4♣","3♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 12
+RED BET: 200 chips, WON, total 20180
+
+Raffle 182: ["4♦","5♣","7♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 16
+RED BET: 200 chips, LOST, total 19980
+
+Raffle 183: ["2♥","6♥","4♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 12
+RED BET: 400 chips, WON, total 20340
+
+Raffle 184: ["3♠","4♠","5♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 12
+RED BET: 200 chips, LOST, total 20140
+
+Raffle 185: ["8♥","4♠","6♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 18
+RED BET: 400 chips, WON, total 20500
+
+Raffle 186: ["K♦","9♥","T♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 29
+RED BET: 200 chips, WON, total 20680
+
+Raffle 187: ["Q♦","2♦","2♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 14
+RED BET: 200 chips, WON, total 20860
+
+Raffle 188: ["7♥","4♦","A♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 12
+RED BET: 200 chips, WON, total 21040
+
+Raffle 189: ["Q♦","9♥","4♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 23
+RED BET: 200 chips, WON, total 21220
+
+Raffle 190: ["Q♣","A♣","4♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 21020
+
+Raffle 191: ["5♠","Q♥","8♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 23
+RED BET: 400 chips, WON, total 21380
+
+Raffle 192: ["9♥","A♦","5♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 15
+RED BET: 200 chips, WON, total 21560
+
+Raffle 193: ["J♣","T♥","9♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 29
+RED BET: 200 chips, WON, total 21740
+
+Raffle 194: ["8♣","T♥","5♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 23
+RED BET: 200 chips, WON, total 21920
+
+Raffle 195: ["3♥","3♠","6♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 12
+RED BET: 200 chips, LOST, total 21720
+
+Raffle 196: ["A♣","4♥","7♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 12
+RED BET: 400 chips, LOST, total 21320
+
+Raffle 197: ["8♣","7♦","Q♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 25
+RED BET: 600 chips, WON, total 21860
+
+Raffle 198: ["6♥","K♣","5♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 21
+RED BET: 200 chips, WON, total 22040
+
+Raffle 199: ["J♣","7♦","9♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 26
+RED BET: 200 chips, LOST, total 21840
+
+Raffle 200: ["K♣","J♦","6♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 26
+RED BET: 400 chips, LOST, total 21440
+
+Raffle 201: ["2♠","Q♠","5♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 17
+RED BET: 600 chips, LOST, total 20840
+
+Raffle 202: ["5♥","7♥","4♠"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 16
+RED BET: 800 chips, WON, total 21560
+
+Raffle 203: ["2♣","6♣","2♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 10
+RED BET: 200 chips, LOST, total 21360
+
+Raffle 204: ["A♥","2♠","A♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 4
+RED BET: 400 chips, WON, total 21720
+
+Raffle 205: ["K♣","6♠","4♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 20
+RED BET: 200 chips, LOST, total 21520
+
+Raffle 206: ["9♣","5♥","8♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 22
+RED BET: 400 chips, LOST, total 21120
+
+Raffle 207: ["4♥","3♥","7♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 14
+RED BET: 600 chips, WON, total 21660
+
+Raffle 208: ["7♥","Q♥","2♠"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 19
+RED BET: 200 chips, WON, total 21840
+
+Raffle 209: ["6♥","A♠","5♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 12
+RED BET: 200 chips, LOST, total 21640
+
+Raffle 210: ["5♥","3♣","Q♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 18
+RED BET: 400 chips, LOST, total 21240
+
+Raffle 211: ["7♠","9♦","A♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 17
+RED BET: 600 chips, WON, total 21780
+
+Raffle 212: ["A♠","2♠","7♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 10
+RED BET: 200 chips, LOST, total 21580
+
+Raffle 213: ["J♥","8♠","Q♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 28
+RED BET: 400 chips, LOST, total 21180
+
+Raffle 214: ["9♦","8♠","Q♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 27
+RED BET: 600 chips, WON, total 21720
+
+Raffle 215: ["4♠","K♥","9♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 23
+RED BET: 200 chips, LOST, total 21520
+
+Raffle 216: ["Q♠","4♣","Q♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 24
+RED BET: 400 chips, LOST, total 21120
+
+Raffle 217: ["3♦","3♠","4♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 10
+RED BET: 600 chips, WON, total 21660
+
+Raffle 218: ["5♠","J♠","8♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 21460
+
+Raffle 219: ["7♦","A♦","6♠"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 14
+RED BET: 400 chips, WON, total 21820
+
+Raffle 220: ["A♥","J♦","K♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 21
+RED BET: 200 chips, WON, total 22000
+
+Raffle 221: ["3♥","4♠","A♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 8
+RED BET: 200 chips, LOST, total 21800
+
+Raffle 222: ["A♦","Q♦","7♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 18
+RED BET: 400 chips, WON, total 22160
+
+Raffle 223: ["7♠","J♥","A♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 18
+RED BET: 200 chips, WON, total 22340
+
+Raffle 224: ["4♥","9♥","3♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 16
+RED BET: 200 chips, WON, total 22520
+
+Raffle 225: ["5♠","Q♣","4♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 19
+RED BET: 200 chips, LOST, total 22320
+
+Raffle 226: ["9♥","3♠","4♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 16
+RED BET: 400 chips, LOST, total 21920
+
+Raffle 227: ["Q♦","4♣","6♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 20
+RED BET: 600 chips, WON, total 22460
+
+Raffle 228: ["5♣","A♦","9♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 22260
+
+Raffle 229: ["Q♥","J♠","3♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 23
+RED BET: 400 chips, LOST, total 21860
+
+Raffle 230: ["T♦","3♦","2♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 15
+RED BET: 600 chips, WON, total 22400
+
+Raffle 231: ["6♥","T♦","4♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 20
+RED BET: 200 chips, WON, total 22580
+
+Raffle 232: ["4♠","A♥","A♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 6
+RED BET: 200 chips, WON, total 22760
+
+Raffle 233: ["2♥","Q♦","3♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 15
+RED BET: 200 chips, WON, total 22940
+
+Raffle 234: ["A♥","5♣","4♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 10
+RED BET: 200 chips, LOST, total 22740
+
+Raffle 235: ["T♦","9♣","3♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 22
+RED BET: 400 chips, WON, total 23100
+
+Raffle 236: ["5♣","3♣","5♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 22900
+
+Raffle 237: ["2♠","3♦","T♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 15
+RED BET: 400 chips, LOST, total 22500
+
+Raffle 238: ["2♣","8♠","Q♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 20
+RED BET: 600 chips, LOST, total 21900
+
+Raffle 239: ["5♣","K♥","8♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 23
+RED BET: 800 chips, WON, total 22620
+
+Raffle 240: ["8♥","T♠","7♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 25
+RED BET: 200 chips, WON, total 22800
+
+Raffle 241: ["2♦","3♥","T♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 15
+RED BET: 200 chips, WON, total 22980
+
+Raffle 242: ["Q♣","2♥","Q♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 22
+RED BET: 200 chips, WON, total 23160
+
+Raffle 243: ["Q♥","7♣","T♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 27
+RED BET: 200 chips, LOST, total 22960
+
+Raffle 244: ["5♠","J♣","Q♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 25
+RED BET: 400 chips, LOST, total 22560
+
+Raffle 245: ["A♠","7♦","Q♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 18
+RED BET: 600 chips, WON, total 23100
+
+Raffle 246: ["T♦","2♣","6♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 22900
+
+Raffle 247: ["Q♥","3♣","K♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 23
+RED BET: 400 chips, LOST, total 22500
+
+Raffle 248: ["K♠","6♦","J♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 26
+RED BET: 600 chips, LOST, total 21900
+
+Raffle 249: ["6♥","T♣","K♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 26
+RED BET: 800 chips, LOST, total 21100
+
+Raffle 250: ["7♠","4♠","J♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 21
+RED BET: 1000 chips, LOST, total 20100
+
+Raffle 251: ["4♦","A♥","Q♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 15
+RED BET: 200 chips, WON, total 20280
+
+Raffle 252: ["K♥","4♣","J♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 24
+RED BET: 200 chips, LOST, total 20080
+
+Raffle 253: ["J♠","J♥","4♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 24
+RED BET: 400 chips, WON, total 20440
+
+Raffle 254: ["6♥","8♣","T♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 24
+RED BET: 200 chips, WON, total 20620
+
+Raffle 255: ["K♦","Q♦","Q♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 30
+RED BET: 200 chips, WON, total 20800
+
+Raffle 256: ["5♠","5♦","5♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 15
+RED BET: 200 chips, WON, total 20980
+
+Raffle 257: ["Q♥","5♥","2♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 17
+RED BET: 200 chips, WON, total 21160
+
+Raffle 258: ["2♣","2♠","9♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 20960
+
+Raffle 259: ["3♦","7♠","T♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 20
+RED BET: 400 chips, LOST, total 20560
+
+Raffle 260: ["7♦","5♥","A♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 13
+RED BET: 600 chips, WON, total 21100
+
+Raffle 261: ["3♣","4♠","7♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 14
+RED BET: 200 chips, LOST, total 20900
+
+Raffle 262: ["6♥","6♦","7♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 19
+RED BET: 400 chips, WON, total 21260
+
+Raffle 263: ["9♠","8♠","J♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 27
+RED BET: 200 chips, LOST, total 21060
+
+Raffle 264: ["6♠","3♣","3♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 12
+RED BET: 400 chips, LOST, total 20660
+
+Raffle 265: ["7♦","2♣","3♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 12
+RED BET: 600 chips, WON, total 21200
+
+Raffle 266: ["K♦","K♠","6♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 26
+RED BET: 200 chips, WON, total 21380
+
+Raffle 267: ["T♠","3♦","Q♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 21180
+
+Raffle 268: ["3♦","3♥","Q♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 16
+RED BET: 400 chips, WON, total 21540
+
+Raffle 269: ["2♦","7♥","K♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 19
+RED BET: 200 chips, WON, total 21720
+
+Raffle 270: ["A♣","9♥","T♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 20
+RED BET: 200 chips, LOST, total 21520
+
+Raffle 271: ["5♦","6♦","J♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 21
+RED BET: 400 chips, WON, total 21880
+
+Raffle 272: ["5♠","A♦","3♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 9
+RED BET: 200 chips, WON, total 22060
+
+Raffle 273: ["3♦","4♦","T♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, WON, total 22240
+
+Raffle 274: ["T♠","7♣","K♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 27
+RED BET: 200 chips, LOST, total 22040
+
+Raffle 275: ["4♣","T♣","8♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 22
+RED BET: 400 chips, LOST, total 21640
+
+Raffle 276: ["J♠","A♣","9♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 20
+RED BET: 600 chips, LOST, total 21040
+
+Raffle 277: ["J♠","J♦","5♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 25
+RED BET: 800 chips, LOST, total 20240
+
+Raffle 278: ["Q♠","5♣","Q♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 25
+RED BET: 1000 chips, LOST, total 19240
+
+Raffle 279: ["K♣","K♦","T♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 30
+RED BET: 200 chips, WON, total 19420
+
+Raffle 280: ["K♣","9♦","4♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 23
+RED BET: 200 chips, WON, total 19600
+
+Raffle 281: ["9♠","8♦","J♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 27
+RED BET: 200 chips, WON, total 19780
+
+Raffle 282: ["A♣","9♠","2♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 12
+RED BET: 200 chips, LOST, total 19580
+
+Raffle 283: ["5♠","A♥","3♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 9
+RED BET: 400 chips, LOST, total 19180
+
+Raffle 284: ["T♥","2♠","T♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 22
+RED BET: 600 chips, LOST, total 18580
+
+Raffle 285: ["5♣","2♥","7♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 14
+RED BET: 800 chips, WON, total 19300
+
+Raffle 286: ["A♣","7♥","4♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 12
+RED BET: 200 chips, LOST, total 19100
+
+Raffle 287: ["A♥","Q♥","9♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 20
+RED BET: 400 chips, WON, total 19460
+
+Raffle 288: ["Q♥","Q♠","4♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 24
+RED BET: 200 chips, WON, total 19640
+
+Raffle 289: ["9♣","2♥","K♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 21
+RED BET: 200 chips, LOST, total 19440
+
+Raffle 290: ["3♠","7♠","6♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 16
+RED BET: 400 chips, LOST, total 19040
+
+Raffle 291: ["2♥","5♦","Q♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 17
+RED BET: 600 chips, WON, total 19580
+
+Raffle 292: ["7♥","4♠","3♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 14
+RED BET: 200 chips, LOST, total 19380
+
+Raffle 293: ["7♣","2♠","K♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 19
+RED BET: 400 chips, LOST, total 18980
+
+Raffle 294: ["A♠","A♥","4♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 6
+RED BET: 600 chips, LOST, total 18380
+
+Raffle 295: ["T♦","8♥","2♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 20
+RED BET: 800 chips, WON, total 19100
+
+Raffle 296: ["4♦","3♥","4♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 11
+RED BET: 200 chips, WON, total 19280
+
+Raffle 297: ["8♦","7♣","2♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, WON, total 19460
+
+Raffle 298: ["3♠","2♠","A♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 6
+RED BET: 200 chips, LOST, total 19260
+
+Raffle 299: ["Q♣","3♠","T♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 23
+RED BET: 400 chips, LOST, total 18860
+
+Raffle 300: ["K♣","7♦","4♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 21
+RED BET: 600 chips, LOST, total 18260
+
+Raffle 301: ["Q♣","2♥","6♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 18
+RED BET: 800 chips, LOST, total 17460
+
+Raffle 302: ["Q♦","2♦","5♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 17
+RED BET: 1000 chips, WON, total 18360
+
+Raffle 303: ["9♥","A♣","T♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 20
+RED BET: 200 chips, WON, total 18540
+
+Raffle 304: ["9♣","7♣","4♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 20
+RED BET: 200 chips, LOST, total 18340
+
+Raffle 305: ["3♥","A♣","K♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 14
+RED BET: 400 chips, WON, total 18700
+
+Raffle 306: ["8♠","Q♥","2♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 20
+RED BET: 200 chips, LOST, total 18500
+
+Raffle 307: ["Q♥","7♥","3♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 20
+RED BET: 400 chips, WON, total 18860
+
+Raffle 308: ["2♠","A♠","9♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 12
+RED BET: 200 chips, LOST, total 18660
+
+Raffle 309: ["J♠","9♠","A♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 20
+RED BET: 400 chips, LOST, total 18260
+
+Raffle 310: ["A♠","2♠","5♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 8
+RED BET: 600 chips, LOST, total 17660
+
+Raffle 311: ["A♥","7♥","6♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 14
+RED BET: 800 chips, WON, total 18380
+
+Raffle 312: ["6♥","Q♣","9♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 25
+RED BET: 200 chips, WON, total 18560
+
+Raffle 313: ["2♥","8♥","5♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 15
+RED BET: 200 chips, WON, total 18740
+
+Raffle 314: ["7♠","T♠","9♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 26
+RED BET: 200 chips, LOST, total 18540
+
+Raffle 315: ["K♠","2♣","Q♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 22
+RED BET: 400 chips, LOST, total 18140
+
+Raffle 316: ["K♦","8♣","7♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 25
+RED BET: 600 chips, WON, total 18680
+
+Raffle 317: ["A♦","8♦","7♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 16
+RED BET: 200 chips, WON, total 18860
+
+Raffle 318: ["9♣","9♥","2♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 20
+RED BET: 200 chips, WON, total 19040
+
+Raffle 319: ["J♣","6♣","T♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 26
+RED BET: 200 chips, LOST, total 18840
+
+Raffle 320: ["9♣","7♣","7♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 23
+RED BET: 400 chips, LOST, total 18440
+
+Raffle 321: ["3♦","7♥","5♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 15
+RED BET: 600 chips, WON, total 18980
+
+Raffle 322: ["Q♥","T♦","8♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 28
+RED BET: 200 chips, WON, total 19160
+
+Raffle 323: ["9♣","2♣","A♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 12
+RED BET: 200 chips, LOST, total 18960
+
+Raffle 324: ["4♠","4♦","9♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 17
+RED BET: 400 chips, WON, total 19320
+
+Raffle 325: ["Q♠","8♠","7♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 25
+RED BET: 200 chips, LOST, total 19120
+
+Raffle 326: ["J♠","8♠","T♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 28
+RED BET: 400 chips, LOST, total 18720
+
+Raffle 327: ["8♠","6♣","K♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 24
+RED BET: 600 chips, LOST, total 18120
+
+Raffle 328: ["T♥","8♠","5♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 23
+RED BET: 800 chips, WON, total 18840
+
+Raffle 329: ["J♦","7♣","T♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 27
+RED BET: 200 chips, LOST, total 18640
+
+Raffle 330: ["8♥","5♥","K♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 23
+RED BET: 400 chips, WON, total 19000
+
+Raffle 331: ["K♠","6♠","A♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 18800
+
+Raffle 332: ["A♣","J♦","3♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 14
+RED BET: 400 chips, LOST, total 18400
+
+Raffle 333: ["9♥","6♠","2♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 17
+RED BET: 600 chips, LOST, total 17800
+
+Raffle 334: ["3♥","A♦","2♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 6
+RED BET: 800 chips, WON, total 18520
+
+Raffle 335: ["T♦","3♣","8♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 21
+RED BET: 200 chips, WON, total 18700
+
+Raffle 336: ["3♥","3♦","J♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 16
+RED BET: 200 chips, WON, total 18880
+
+Raffle 337: ["7♣","A♠","6♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 14
+RED BET: 200 chips, LOST, total 18680
+
+Raffle 338: ["3♦","2♥","T♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 15
+RED BET: 400 chips, WON, total 19040
+
+Raffle 339: ["Q♦","6♠","4♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 20
+RED BET: 200 chips, WON, total 19220
+
+Raffle 340: ["3♣","8♦","2♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 19020
+
+Raffle 341: ["T♦","4♥","T♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 24
+RED BET: 400 chips, WON, total 19380
+
+Raffle 342: ["2♦","3♠","3♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 8
+RED BET: 200 chips, WON, total 19560
+
+Raffle 343: ["4♣","7♠","3♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 14
+RED BET: 200 chips, LOST, total 19360
+
+Raffle 344: ["A♣","A♠","Q♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 12
+RED BET: 400 chips, LOST, total 18960
+
+Raffle 345: ["3♠","Q♥","4♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 17
+RED BET: 600 chips, WON, total 19500
+
+Raffle 346: ["8♠","8♦","7♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 19300
+
+Raffle 347: ["J♣","K♠","A♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 21
+RED BET: 400 chips, LOST, total 18900
+
+Raffle 348: ["8♥","9♣","3♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 20
+RED BET: 600 chips, LOST, total 18300
+
+Raffle 349: ["6♣","8♥","9♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 23
+RED BET: 800 chips, WON, total 19020
+
+Raffle 350: ["Q♥","9♦","Q♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 29
+RED BET: 200 chips, WON, total 19200
+
+Raffle 351: ["7♣","2♣","5♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 14
+RED BET: 200 chips, LOST, total 19000
+
+Raffle 352: ["4♥","3♥","K♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 17
+RED BET: 400 chips, WON, total 19360
+
+Raffle 353: ["5♥","6♠","5♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 16
+RED BET: 200 chips, LOST, total 19160
+
+Raffle 354: ["5♦","A♦","T♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 16
+RED BET: 400 chips, WON, total 19520
+
+Raffle 355: ["Q♠","5♠","Q♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 25
+RED BET: 200 chips, LOST, total 19320
+
+Raffle 356: ["2♥","A♦","4♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 7
+RED BET: 400 chips, WON, total 19680
+
+Raffle 357: ["6♣","7♣","7♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 20
+RED BET: 200 chips, LOST, total 19480
+
+Raffle 358: ["K♦","Q♥","2♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 22
+RED BET: 400 chips, WON, total 19840
+
+Raffle 359: ["K♠","9♥","K♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 29
+RED BET: 200 chips, WON, total 20020
+
+Raffle 360: ["A♣","2♣","8♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 11
+RED BET: 200 chips, LOST, total 19820
+
+Raffle 361: ["Q♥","3♠","9♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 22
+RED BET: 400 chips, WON, total 20180
+
+Raffle 362: ["T♣","9♣","Q♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":3,"♥":0}, points: 29
+RED BET: 200 chips, LOST, total 19980
+
+Raffle 363: ["J♠","9♥","2♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 21
+RED BET: 400 chips, WON, total 20340
+
+Raffle 364: ["8♦","8♠","6♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 22
+RED BET: 200 chips, LOST, total 20140
+
+Raffle 365: ["A♦","6♣","4♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 11
+RED BET: 400 chips, WON, total 20500
+
+Raffle 366: ["7♦","9♥","K♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 26
+RED BET: 200 chips, WON, total 20680
+
+Raffle 367: ["8♦","6♦","K♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 24
+RED BET: 200 chips, WON, total 20860
+
+Raffle 368: ["8♥","K♦","6♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 24
+RED BET: 200 chips, WON, total 21040
+
+Raffle 369: ["A♥","Q♦","A♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 12
+RED BET: 200 chips, WON, total 21220
+
+Raffle 370: ["5♣","T♠","3♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 21020
+
+Raffle 371: ["6♣","2♠","J♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 18
+RED BET: 400 chips, LOST, total 20620
+
+Raffle 372: ["6♠","5♦","K♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 21
+RED BET: 600 chips, WON, total 21160
+
+Raffle 373: ["T♦","K♥","7♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 27
+RED BET: 200 chips, WON, total 21340
+
+Raffle 374: ["A♦","7♦","5♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 13
+RED BET: 200 chips, WON, total 21520
+
+Raffle 375: ["5♠","9♦","K♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 24
+RED BET: 200 chips, WON, total 21700
+
+Raffle 376: ["6♦","Q♣","6♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 22
+RED BET: 200 chips, WON, total 21880
+
+Raffle 377: ["Q♣","A♥","3♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 14
+RED BET: 200 chips, LOST, total 21680
+
+Raffle 378: ["J♠","3♥","T♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 23
+RED BET: 400 chips, WON, total 22040
+
+Raffle 379: ["5♥","4♠","J♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 19
+RED BET: 200 chips, WON, total 22220
+
+Raffle 380: ["J♥","7♠","K♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 27
+RED BET: 200 chips, LOST, total 22020
+
+Raffle 381: ["7♥","3♠","6♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 16
+RED BET: 400 chips, LOST, total 21620
+
+Raffle 382: ["2♠","3♠","7♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 12
+RED BET: 600 chips, LOST, total 21020
+
+Raffle 383: ["9♣","K♦","4♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 23
+RED BET: 800 chips, WON, total 21740
+
+Raffle 384: ["Q♦","J♠","Q♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 30
+RED BET: 200 chips, WON, total 21920
+
+Raffle 385: ["7♥","9♦","5♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 21
+RED BET: 200 chips, WON, total 22100
+
+Raffle 386: ["T♥","Q♣","K♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 30
+RED BET: 200 chips, LOST, total 21900
+
+Raffle 387: ["3♥","T♣","4♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 17
+RED BET: 400 chips, WON, total 22260
+
+Raffle 388: ["T♠","8♦","3♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 22060
+
+Raffle 389: ["7♦","J♥","6♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 23
+RED BET: 400 chips, WON, total 22420
+
+Raffle 390: ["Q♥","J♣","A♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 21
+RED BET: 200 chips, LOST, total 22220
+
+Raffle 391: ["T♣","9♦","Q♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 29
+RED BET: 400 chips, WON, total 22580
+
+Raffle 392: ["J♦","Q♣","T♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 30
+RED BET: 200 chips, WON, total 22760
+
+Raffle 393: ["4♥","5♣","7♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 16
+RED BET: 200 chips, LOST, total 22560
+
+Raffle 394: ["9♥","5♣","8♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 22
+RED BET: 400 chips, LOST, total 22160
+
+Raffle 395: ["3♦","J♦","A♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 14
+RED BET: 600 chips, WON, total 22700
+
+Raffle 396: ["2♣","J♠","6♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 18
+RED BET: 200 chips, LOST, total 22500
+
+Raffle 397: ["3♥","4♣","7♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 14
+RED BET: 400 chips, LOST, total 22100
+
+Raffle 398: ["8♠","T♠","Q♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 28
+RED BET: 600 chips, LOST, total 21500
+
+Raffle 399: ["6♦","Q♦","7♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 23
+RED BET: 800 chips, WON, total 22220
+
+Raffle 400: ["7♥","T♦","Q♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 27
+RED BET: 200 chips, WON, total 22400
+
+Raffle 401: ["K♥","8♠","6♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 24
+RED BET: 200 chips, WON, total 22580
+
+Raffle 402: ["T♠","7♣","5♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 22
+RED BET: 200 chips, LOST, total 22380
+
+Raffle 403: ["9♠","Q♥","3♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 22
+RED BET: 400 chips, WON, total 22740
+
+Raffle 404: ["6♠","6♦","9♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 22540
+
+Raffle 405: ["9♦","Q♦","2♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 21
+RED BET: 400 chips, WON, total 22900
+
+Raffle 406: ["9♥","A♦","4♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 14
+RED BET: 200 chips, WON, total 23080
+
+Raffle 407: ["7♣","Q♥","9♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 26
+RED BET: 200 chips, LOST, total 22880
+
+Raffle 408: ["2♠","4♦","T♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 16
+RED BET: 400 chips, WON, total 23240
+
+Raffle 409: ["T♠","6♣","4♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 20
+RED BET: 200 chips, LOST, total 23040
+
+Raffle 410: ["K♣","4♥","5♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 19
+RED BET: 400 chips, WON, total 23400
+
+Raffle 411: ["T♣","6♦","2♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 23200
+
+Raffle 412: ["K♠","5♥","3♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 18
+RED BET: 400 chips, LOST, total 22800
+
+Raffle 413: ["J♦","3♥","3♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 16
+RED BET: 600 chips, WON, total 23340
+
+Raffle 414: ["8♥","8♠","T♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 26
+RED BET: 200 chips, WON, total 23520
+
+Raffle 415: ["7♥","8♥","A♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 16
+RED BET: 200 chips, WON, total 23700
+
+Raffle 416: ["8♦","3♣","T♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 21
+RED BET: 200 chips, WON, total 23880
+
+Raffle 417: ["9♦","7♣","3♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 19
+RED BET: 200 chips, WON, total 24060
+
+Raffle 418: ["4♦","4♠","5♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 23860
+
+Raffle 419: ["6♣","2♥","J♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 18
+RED BET: 400 chips, LOST, total 23460
+
+Raffle 420: ["J♥","6♣","7♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 23
+RED BET: 600 chips, WON, total 24000
+
+Raffle 421: ["T♥","9♦","A♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 20
+RED BET: 200 chips, WON, total 24180
+
+Raffle 422: ["9♥","8♠","J♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 27
+RED BET: 200 chips, WON, total 24360
+
+Raffle 423: ["A♦","9♥","5♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 15
+RED BET: 200 chips, WON, total 24540
+
+Raffle 424: ["2♥","4♣","7♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 13
+RED BET: 200 chips, WON, total 24720
+
+Raffle 425: ["J♣","3♥","A♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 14
+RED BET: 200 chips, WON, total 24900
+
+Raffle 426: ["K♦","T♥","6♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 26
+RED BET: 200 chips, WON, total 25080
+
+Raffle 427: ["6♥","5♣","J♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 21
+RED BET: 200 chips, LOST, total 24880
+
+Raffle 428: ["7♠","6♣","A♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 14
+RED BET: 400 chips, LOST, total 24480
+
+Raffle 429: ["K♠","5♥","3♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 18
+RED BET: 600 chips, WON, total 25020
+
+Raffle 430: ["7♦","Q♥","6♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 23
+RED BET: 200 chips, WON, total 25200
+
+Raffle 431: ["8♥","T♠","4♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 22
+RED BET: 200 chips, LOST, total 25000
+
+Raffle 432: ["J♥","8♥","9♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 27
+RED BET: 400 chips, WON, total 25360
+
+Raffle 433: ["T♦","3♣","2♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 25160
+
+Raffle 434: ["9♦","K♠","K♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 29
+RED BET: 400 chips, LOST, total 24760
+
+Raffle 435: ["8♦","7♦","K♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 25
+RED BET: 600 chips, WON, total 25300
+
+Raffle 436: ["J♦","Q♠","6♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 26
+RED BET: 200 chips, WON, total 25480
+
+Raffle 437: ["K♠","8♦","Q♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 28
+RED BET: 200 chips, WON, total 25660
+
+Raffle 438: ["T♣","T♠","9♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 29
+RED BET: 200 chips, LOST, total 25460
+
+Raffle 439: ["K♦","6♥","A♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 17
+RED BET: 400 chips, WON, total 25820
+
+Raffle 440: ["9♦","Q♣","A♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 20
+RED BET: 200 chips, WON, total 26000
+
+Raffle 441: ["J♠","J♦","T♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 30
+RED BET: 200 chips, LOST, total 25800
+
+Raffle 442: ["5♦","K♣","5♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 20
+RED BET: 400 chips, WON, total 26160
+
+Raffle 443: ["4♦","2♥","9♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 15
+RED BET: 200 chips, WON, total 26340
+
+Raffle 444: ["J♥","7♠","Q♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 27
+RED BET: 200 chips, WON, total 26520
+
+Raffle 445: ["Q♦","K♣","8♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 28
+RED BET: 200 chips, WON, total 26700
+
+Raffle 446: ["8♣","A♥","A♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 10
+RED BET: 200 chips, LOST, total 26500
+
+Raffle 447: ["6♥","8♥","9♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 23
+RED BET: 400 chips, WON, total 26860
+
+Raffle 448: ["9♠","2♥","A♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 12
+RED BET: 200 chips, LOST, total 26660
+
+Raffle 449: ["3♥","2♥","9♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 14
+RED BET: 400 chips, WON, total 27020
+
+Raffle 450: ["8♠","5♠","7♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 20
+RED BET: 200 chips, LOST, total 26820
+
+Raffle 451: ["5♦","8♥","K♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 23
+RED BET: 400 chips, WON, total 27180
+
+Raffle 452: ["2♠","Q♦","4♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 16
+RED BET: 200 chips, WON, total 27360
+
+Raffle 453: ["2♠","K♥","A♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 13
+RED BET: 200 chips, WON, total 27540
+
+Raffle 454: ["A♥","2♣","6♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 9
+RED BET: 200 chips, LOST, total 27340
+
+Raffle 455: ["Q♥","5♣","Q♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 25
+RED BET: 400 chips, WON, total 27700
+
+Raffle 456: ["J♥","K♣","J♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 30
+RED BET: 200 chips, WON, total 27880
+
+Raffle 457: ["9♣","3♠","2♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 14
+RED BET: 200 chips, LOST, total 27680
+
+Raffle 458: ["K♦","J♣","Q♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 30
+RED BET: 400 chips, WON, total 28040
+
+Raffle 459: ["8♠","6♣","8♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 22
+RED BET: 200 chips, LOST, total 27840
+
+Raffle 460: ["Q♠","T♣","4♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 24
+RED BET: 400 chips, LOST, total 27440
+
+Raffle 461: ["4♦","K♥","K♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 24
+RED BET: 600 chips, WON, total 27980
+
+Raffle 462: ["J♣","6♠","4♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 20
+RED BET: 200 chips, LOST, total 27780
+
+Raffle 463: ["T♥","7♣","9♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 26
+RED BET: 400 chips, WON, total 28140
+
+Raffle 464: ["A♣","4♣","T♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 27940
+
+Raffle 465: ["J♦","6♦","J♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 26
+RED BET: 400 chips, WON, total 28300
+
+Raffle 466: ["8♥","J♣","A♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 19
+RED BET: 200 chips, LOST, total 28100
+
+Raffle 467: ["4♦","J♦","8♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 22
+RED BET: 400 chips, WON, total 28460
+
+Raffle 468: ["2♣","Q♦","5♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 28260
+
+Raffle 469: ["A♣","8♣","5♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 14
+RED BET: 400 chips, LOST, total 27860
+
+Raffle 470: ["6♥","5♠","2♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 13
+RED BET: 600 chips, WON, total 28400
+
+Raffle 471: ["A♣","4♦","2♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 7
+RED BET: 200 chips, WON, total 28580
+
+Raffle 472: ["K♠","4♥","K♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 24
+RED BET: 200 chips, WON, total 28760
+
+Raffle 473: ["5♥","4♣","2♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 11
+RED BET: 200 chips, LOST, total 28560
+
+Raffle 474: ["K♥","3♠","Q♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 23
+RED BET: 400 chips, WON, total 28920
+
+Raffle 475: ["7♣","8♣","5♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 20
+RED BET: 200 chips, LOST, total 28720
+
+Raffle 476: ["7♦","3♥","3♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 13
+RED BET: 400 chips, WON, total 29080
+
+Raffle 477: ["5♦","Q♥","5♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 20
+RED BET: 200 chips, WON, total 29260
+
+Raffle 478: ["4♦","T♥","5♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 19
+RED BET: 200 chips, WON, total 29440
+
+Raffle 479: ["J♦","A♠","T♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 21
+RED BET: 200 chips, WON, total 29620
+
+Raffle 480: ["5♥","8♠","K♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 23
+RED BET: 200 chips, WON, total 29800
+
+Raffle 481: ["6♥","9♦","9♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 24
+RED BET: 200 chips, WON, total 29980
+
+Raffle 482: ["J♣","2♣","2♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 14
+RED BET: 200 chips, LOST, total 29780
+
+Raffle 483: ["7♥","4♦","8♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 19
+RED BET: 400 chips, WON, total 30140
+
+Raffle 484: ["T♠","6♥","8♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 24
+RED BET: 200 chips, LOST, total 29940
+
+Raffle 485: ["T♠","T♥","2♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 22
+RED BET: 400 chips, LOST, total 29540
+
+Raffle 486: ["7♣","A♣","6♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 14
+RED BET: 600 chips, LOST, total 28940
+
+Raffle 487: ["6♦","J♦","9♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 25
+RED BET: 800 chips, WON, total 29660
+
+Raffle 488: ["A♥","2♥","9♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 12
+RED BET: 200 chips, WON, total 29840
+
+Raffle 489: ["5♦","T♠","A♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 16
+RED BET: 200 chips, WON, total 30020
+
+Raffle 490: ["5♥","9♦","5♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 19
+RED BET: 200 chips, WON, total 30200
+
+Raffle 491: ["2♣","K♥","9♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 21
+RED BET: 200 chips, WON, total 30380
+
+Raffle 492: ["6♣","3♥","A♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 10
+RED BET: 200 chips, LOST, total 30180
+
+Raffle 493: ["A♥","6♥","J♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 17
+RED BET: 400 chips, WON, total 30540
+
+Raffle 494: ["K♠","9♣","5♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 24
+RED BET: 200 chips, LOST, total 30340
+
+Raffle 495: ["A♠","9♥","6♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 16
+RED BET: 400 chips, WON, total 30700
+
+Raffle 496: ["9♥","3♥","8♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 20
+RED BET: 200 chips, WON, total 30880
+
+Raffle 497: ["9♠","9♣","9♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 27
+RED BET: 200 chips, LOST, total 30680
+
+Raffle 498: ["9♦","2♥","9♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 20
+RED BET: 400 chips, WON, total 31040
+
+Raffle 499: ["7♣","J♠","6♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 30840
+
+Raffle 500: ["A♦","3♦","K♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 14
+RED BET: 400 chips, WON, total 31200
+
+Raffle 501: ["T♥","A♦","J♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 21
+RED BET: 200 chips, WON, total 31380
+
+Raffle 502: ["A♠","2♦","Q♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 31180
+
+Raffle 503: ["A♦","T♥","4♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 15
+RED BET: 400 chips, WON, total 31540
+
+Raffle 504: ["Q♥","J♣","3♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 23
+RED BET: 200 chips, WON, total 31720
+
+Raffle 505: ["K♠","A♦","8♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 19
+RED BET: 200 chips, LOST, total 31520
+
+Raffle 506: ["5♦","K♣","K♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 25
+RED BET: 400 chips, WON, total 31880
+
+Raffle 507: ["Q♠","K♠","5♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 25
+RED BET: 200 chips, LOST, total 31680
+
+Raffle 508: ["8♥","7♠","3♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 18
+RED BET: 400 chips, LOST, total 31280
+
+Raffle 509: ["J♦","J♥","T♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 30
+RED BET: 600 chips, WON, total 31820
+
+Raffle 510: ["5♦","6♦","6♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, WON, total 32000
+
+Raffle 511: ["A♦","J♣","6♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 31800
+
+Raffle 512: ["T♦","3♠","K♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 23
+RED BET: 400 chips, WON, total 32160
+
+Raffle 513: ["9♣","8♠","T♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 27
+RED BET: 200 chips, LOST, total 31960
+
+Raffle 514: ["4♥","9♠","4♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 17
+RED BET: 400 chips, LOST, total 31560
+
+Raffle 515: ["2♥","Q♥","8♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 20
+RED BET: 600 chips, WON, total 32100
+
+Raffle 516: ["K♣","2♣","3♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 31900
+
+Raffle 517: ["Q♦","8♥","7♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 25
+RED BET: 400 chips, WON, total 32260
+
+Raffle 518: ["A♣","T♦","K♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 21
+RED BET: 200 chips, WON, total 32440
+
+Raffle 519: ["J♦","2♦","2♠"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 14
+RED BET: 200 chips, WON, total 32620
+
+Raffle 520: ["5♥","A♦","3♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 9
+RED BET: 200 chips, WON, total 32800
+
+Raffle 521: ["J♠","4♣","T♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 24
+RED BET: 200 chips, LOST, total 32600
+
+Raffle 522: ["2♠","4♣","8♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 14
+RED BET: 400 chips, LOST, total 32200
+
+Raffle 523: ["Q♠","K♠","5♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 25
+RED BET: 600 chips, LOST, total 31600
+
+Raffle 524: ["5♠","8♦","4♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 17
+RED BET: 800 chips, LOST, total 30800
+
+Raffle 525: ["T♥","Q♣","4♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 24
+RED BET: 1000 chips, LOST, total 29800
+
+Raffle 526: ["4♦","2♥","8♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 14
+RED BET: 200 chips, WON, total 29980
+
+Raffle 527: ["Q♣","9♥","3♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 22
+RED BET: 200 chips, WON, total 30160
+
+Raffle 528: ["2♠","4♦","9♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 15
+RED BET: 200 chips, WON, total 30340
+
+Raffle 529: ["6♦","5♣","Q♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 30140
+
+Raffle 530: ["3♠","A♣","T♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 14
+RED BET: 400 chips, LOST, total 29740
+
+Raffle 531: ["9♦","9♣","5♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 23
+RED BET: 600 chips, LOST, total 29140
+
+Raffle 532: ["3♠","T♠","3♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 16
+RED BET: 800 chips, LOST, total 28340
+
+Raffle 533: ["3♦","J♣","T♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 23
+RED BET: 1000 chips, WON, total 29240
+
+Raffle 534: ["3♠","J♦","5♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 18
+RED BET: 200 chips, WON, total 29420
+
+Raffle 535: ["8♠","A♠","T♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 19
+RED BET: 200 chips, LOST, total 29220
+
+Raffle 536: ["T♥","8♦","7♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 25
+RED BET: 400 chips, WON, total 29580
+
+Raffle 537: ["6♦","2♠","Q♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 18
+RED BET: 200 chips, WON, total 29760
+
+Raffle 538: ["7♠","T♥","2♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 19
+RED BET: 200 chips, LOST, total 29560
+
+Raffle 539: ["6♠","4♣","Q♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 20
+RED BET: 400 chips, LOST, total 29160
+
+Raffle 540: ["J♠","A♠","8♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 19
+RED BET: 600 chips, LOST, total 28560
+
+Raffle 541: ["6♠","A♦","2♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 9
+RED BET: 800 chips, LOST, total 27760
+
+Raffle 542: ["A♠","A♣","J♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 12
+RED BET: 1000 chips, LOST, total 26760
+
+Raffle 543: ["3♦","4♦","8♠"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 15
+RED BET: 200 chips, WON, total 26940
+
+Raffle 544: ["4♣","8♥","7♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 19
+RED BET: 200 chips, WON, total 27120
+
+Raffle 545: ["Q♣","A♠","7♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 26920
+
+Raffle 546: ["6♦","5♥","7♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 18
+RED BET: 400 chips, WON, total 27280
+
+Raffle 547: ["6♦","Q♥","5♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 21
+RED BET: 200 chips, WON, total 27460
+
+Raffle 548: ["2♥","8♦","K♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 20
+RED BET: 200 chips, WON, total 27640
+
+Raffle 549: ["9♦","6♠","3♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 27440
+
+Raffle 550: ["K♦","2♠","J♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 22
+RED BET: 400 chips, WON, total 27800
+
+Raffle 551: ["9♣","J♠","J♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 29
+RED BET: 200 chips, LOST, total 27600
+
+Raffle 552: ["6♣","T♠","8♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 24
+RED BET: 400 chips, LOST, total 27200
+
+Raffle 553: ["3♥","6♦","7♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 16
+RED BET: 600 chips, WON, total 27740
+
+Raffle 554: ["T♥","A♦","9♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 20
+RED BET: 200 chips, WON, total 27920
+
+Raffle 555: ["T♠","5♣","A♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 16
+RED BET: 200 chips, LOST, total 27720
+
+Raffle 556: ["8♥","T♥","7♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 25
+RED BET: 400 chips, WON, total 28080
+
+Raffle 557: ["A♠","6♣","8♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 27880
+
+Raffle 558: ["5♠","7♦","8♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 20
+RED BET: 400 chips, WON, total 28240
+
+Raffle 559: ["4♣","Q♣","J♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":3,"♥":0}, points: 24
+RED BET: 200 chips, LOST, total 28040
+
+Raffle 560: ["6♣","Q♠","K♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 26
+RED BET: 400 chips, LOST, total 27640
+
+Raffle 561: ["5♣","J♦","T♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 25
+RED BET: 600 chips, LOST, total 27040
+
+Raffle 562: ["8♥","5♥","7♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 20
+RED BET: 800 chips, WON, total 27760
+
+Raffle 563: ["4♦","5♦","8♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, WON, total 27940
+
+Raffle 564: ["J♥","J♠","T♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 30
+RED BET: 200 chips, LOST, total 27740
+
+Raffle 565: ["2♣","5♥","8♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 15
+RED BET: 400 chips, LOST, total 27340
+
+Raffle 566: ["5♠","T♣","Q♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 25
+RED BET: 600 chips, LOST, total 26740
+
+Raffle 567: ["4♦","9♦","9♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 22
+RED BET: 800 chips, WON, total 27460
+
+Raffle 568: ["6♠","8♣","A♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 15
+RED BET: 200 chips, LOST, total 27260
+
+Raffle 569: ["Q♦","K♥","8♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 28
+RED BET: 400 chips, WON, total 27620
+
+Raffle 570: ["5♠","8♠","Q♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 27420
+
+Raffle 571: ["Q♦","7♦","Q♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 27
+RED BET: 400 chips, WON, total 27780
+
+Raffle 572: ["7♠","A♥","8♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 16
+RED BET: 200 chips, WON, total 27960
+
+Raffle 573: ["J♠","3♣","A♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 14
+RED BET: 200 chips, LOST, total 27760
+
+Raffle 574: ["9♠","4♥","9♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 22
+RED BET: 400 chips, WON, total 28120
+
+Raffle 575: ["T♥","J♥","4♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 24
+RED BET: 200 chips, WON, total 28300
+
+Raffle 576: ["5♥","3♦","T♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 18
+RED BET: 200 chips, WON, total 28480
+
+Raffle 577: ["J♥","A♥","2♠"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 13
+RED BET: 200 chips, WON, total 28660
+
+Raffle 578: ["Q♥","5♥","4♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 19
+RED BET: 200 chips, WON, total 28840
+
+Raffle 579: ["Q♥","6♣","4♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 20
+RED BET: 200 chips, LOST, total 28640
+
+Raffle 580: ["J♣","J♥","5♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 25
+RED BET: 400 chips, LOST, total 28240
+
+Raffle 581: ["Q♣","4♣","J♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 24
+RED BET: 600 chips, LOST, total 27640
+
+Raffle 582: ["K♦","A♠","K♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 21
+RED BET: 800 chips, LOST, total 26840
+
+Raffle 583: ["9♦","A♥","3♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 13
+RED BET: 1000 chips, WON, total 27740
+
+Raffle 584: ["T♣","8♠","9♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 27
+RED BET: 200 chips, LOST, total 27540
+
+Raffle 585: ["J♠","4♥","8♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 22
+RED BET: 400 chips, LOST, total 27140
+
+Raffle 586: ["K♣","8♣","2♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 20
+RED BET: 600 chips, LOST, total 26540
+
+Raffle 587: ["K♣","2♠","5♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 17
+RED BET: 800 chips, LOST, total 25740
+
+Raffle 588: ["3♥","7♥","4♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 14
+RED BET: 1000 chips, WON, total 26640
+
+Raffle 589: ["9♦","Q♥","T♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 29
+RED BET: 200 chips, WON, total 26820
+
+Raffle 590: ["7♠","2♣","7♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 16
+RED BET: 200 chips, LOST, total 26620
+
+Raffle 591: ["3♥","8♣","9♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 20
+RED BET: 400 chips, WON, total 26980
+
+Raffle 592: ["K♥","K♦","9♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 29
+RED BET: 200 chips, WON, total 27160
+
+Raffle 593: ["5♠","K♥","7♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 22
+RED BET: 200 chips, WON, total 27340
+
+Raffle 594: ["4♦","6♦","3♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 13
+RED BET: 200 chips, WON, total 27520
+
+Raffle 595: ["2♠","6♠","7♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 27320
+
+Raffle 596: ["2♦","Q♠","K♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 22
+RED BET: 400 chips, LOST, total 26920
+
+Raffle 597: ["J♦","9♦","9♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 28
+RED BET: 600 chips, WON, total 27460
+
+Raffle 598: ["5♠","5♦","3♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 27260
+
+Raffle 599: ["A♥","A♠","9♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 11
+RED BET: 400 chips, WON, total 27620
+
+Raffle 600: ["Q♠","J♥","5♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 25
+RED BET: 200 chips, WON, total 27800
+
+Raffle 601: ["A♠","T♥","J♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 21
+RED BET: 200 chips, WON, total 27980
+
+Raffle 602: ["3♠","T♥","T♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 23
+RED BET: 200 chips, WON, total 28160
+
+Raffle 603: ["J♣","T♠","Q♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 30
+RED BET: 200 chips, LOST, total 27960
+
+Raffle 604: ["8♣","3♥","6♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 17
+RED BET: 400 chips, LOST, total 27560
+
+Raffle 605: ["8♣","8♠","7♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 23
+RED BET: 600 chips, LOST, total 26960
+
+Raffle 606: ["A♣","Q♦","4♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 15
+RED BET: 800 chips, LOST, total 26160
+
+Raffle 607: ["3♥","2♣","J♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 15
+RED BET: 1000 chips, WON, total 27060
+
+Raffle 608: ["J♠","7♣","9♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 26
+RED BET: 200 chips, LOST, total 26860
+
+Raffle 609: ["5♥","4♣","3♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 12
+RED BET: 400 chips, WON, total 27220
+
+Raffle 610: ["9♦","5♠","A♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 27020
+
+Raffle 611: ["K♥","J♥","A♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 21
+RED BET: 400 chips, WON, total 27380
+
+Raffle 612: ["9♣","7♠","K♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 26
+RED BET: 200 chips, LOST, total 27180
+
+Raffle 613: ["8♣","8♥","2♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 18
+RED BET: 400 chips, LOST, total 26780
+
+Raffle 614: ["A♦","J♥","4♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 15
+RED BET: 600 chips, WON, total 27320
+
+Raffle 615: ["6♥","K♠","T♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 26
+RED BET: 200 chips, LOST, total 27120
+
+Raffle 616: ["4♠","J♠","7♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 21
+RED BET: 400 chips, LOST, total 26720
+
+Raffle 617: ["7♥","9♥","3♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 19
+RED BET: 600 chips, WON, total 27260
+
+Raffle 618: ["2♣","8♥","2♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 12
+RED BET: 200 chips, WON, total 27440
+
+Raffle 619: ["6♠","Q♥","2♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 18
+RED BET: 200 chips, LOST, total 27240
+
+Raffle 620: ["9♥","K♣","2♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 21
+RED BET: 400 chips, LOST, total 26840
+
+Raffle 621: ["4♥","4♣","9♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 17
+RED BET: 600 chips, WON, total 27380
+
+Raffle 622: ["K♠","J♦","3♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 27180
+
+Raffle 623: ["T♥","5♠","Q♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 25
+RED BET: 400 chips, WON, total 27540
+
+Raffle 624: ["K♦","5♣","8♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 23
+RED BET: 200 chips, WON, total 27720
+
+Raffle 625: ["A♦","5♥","4♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 10
+RED BET: 200 chips, WON, total 27900
+
+Raffle 626: ["8♠","J♦","4♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 22
+RED BET: 200 chips, LOST, total 27700
+
+Raffle 627: ["Q♣","3♣","K♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 23
+RED BET: 400 chips, LOST, total 27300
+
+Raffle 628: ["J♦","7♥","K♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 27
+RED BET: 600 chips, WON, total 27840
+
+Raffle 629: ["7♥","Q♦","2♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 19
+RED BET: 200 chips, WON, total 28020
+
+Raffle 630: ["5♥","T♠","J♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 25
+RED BET: 200 chips, WON, total 28200
+
+Raffle 631: ["Q♣","8♠","Q♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 28
+RED BET: 200 chips, LOST, total 28000
+
+Raffle 632: ["Q♦","9♦","K♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 29
+RED BET: 400 chips, WON, total 28360
+
+Raffle 633: ["7♣","5♣","A♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 28160
+
+Raffle 634: ["3♠","4♠","7♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 14
+RED BET: 400 chips, LOST, total 27760
+
+Raffle 635: ["J♥","6♥","7♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 23
+RED BET: 600 chips, WON, total 28300
+
+Raffle 636: ["2♠","K♦","8♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 20
+RED BET: 200 chips, WON, total 28480
+
+Raffle 637: ["K♣","4♥","Q♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 24
+RED BET: 200 chips, WON, total 28660
+
+Raffle 638: ["7♥","6♥","8♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 21
+RED BET: 200 chips, WON, total 28840
+
+Raffle 639: ["8♥","6♣","7♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 21
+RED BET: 200 chips, LOST, total 28640
+
+Raffle 640: ["T♥","7♦","9♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 26
+RED BET: 400 chips, WON, total 29000
+
+Raffle 641: ["9♠","5♥","A♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 15
+RED BET: 200 chips, WON, total 29180
+
+Raffle 642: ["2♦","2♠","7♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 11
+RED BET: 200 chips, LOST, total 28980
+
+Raffle 643: ["Q♠","4♠","7♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 21
+RED BET: 400 chips, LOST, total 28580
+
+Raffle 644: ["2♦","4♦","9♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 15
+RED BET: 600 chips, WON, total 29120
+
+Raffle 645: ["J♦","2♥","Q♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 22
+RED BET: 200 chips, WON, total 29300
+
+Raffle 646: ["2♦","T♦","K♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 22
+RED BET: 200 chips, WON, total 29480
+
+Raffle 647: ["J♦","K♣","J♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 30
+RED BET: 200 chips, LOST, total 29280
+
+Raffle 648: ["8♦","J♦","3♠"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 21
+RED BET: 400 chips, WON, total 29640
+
+Raffle 649: ["4♠","J♥","Q♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 24
+RED BET: 200 chips, LOST, total 29440
+
+Raffle 650: ["8♥","Q♦","7♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 25
+RED BET: 400 chips, WON, total 29800
+
+Raffle 651: ["A♠","2♣","Q♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 29600
+
+Raffle 652: ["3♣","2♥","K♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 15
+RED BET: 400 chips, WON, total 29960
+
+Raffle 653: ["9♣","Q♣","K♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 29
+RED BET: 200 chips, LOST, total 29760
+
+Raffle 654: ["4♦","8♥","4♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 16
+RED BET: 400 chips, WON, total 30120
+
+Raffle 655: ["5♠","2♣","8♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 29920
+
+Raffle 656: ["6♦","4♦","5♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 15
+RED BET: 400 chips, WON, total 30280
+
+Raffle 657: ["6♠","A♥","3♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 10
+RED BET: 200 chips, LOST, total 30080
+
+Raffle 658: ["K♥","J♣","8♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 28
+RED BET: 400 chips, LOST, total 29680
+
+Raffle 659: ["K♠","3♥","T♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 23
+RED BET: 600 chips, LOST, total 29080
+
+Raffle 660: ["9♦","5♣","K♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 24
+RED BET: 800 chips, LOST, total 28280
+
+Raffle 661: ["3♥","Q♣","9♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 22
+RED BET: 1000 chips, WON, total 29180
+
+Raffle 662: ["2♠","T♠","A♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 13
+RED BET: 200 chips, LOST, total 28980
+
+Raffle 663: ["7♣","T♣","J♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":3,"♥":0}, points: 27
+RED BET: 400 chips, LOST, total 28580
+
+Raffle 664: ["6♦","Q♦","T♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 26
+RED BET: 600 chips, WON, total 29120
+
+Raffle 665: ["7♠","K♠","3♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 20
+RED BET: 200 chips, LOST, total 28920
+
+Raffle 666: ["6♦","7♣","4♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 17
+RED BET: 400 chips, LOST, total 28520
+
+Raffle 667: ["Q♥","K♣","3♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 23
+RED BET: 600 chips, LOST, total 27920
+
+Raffle 668: ["4♠","9♠","T♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 23
+RED BET: 800 chips, LOST, total 27120
+
+Raffle 669: ["2♠","J♣","A♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 13
+RED BET: 1000 chips, LOST, total 26120
+
+Raffle 670: ["5♠","2♥","A♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 8
+RED BET: 200 chips, WON, total 26300
+
+Raffle 671: ["T♠","2♠","J♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 22
+RED BET: 200 chips, LOST, total 26100
+
+Raffle 672: ["J♠","9♠","K♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 29
+RED BET: 400 chips, LOST, total 25700
+
+Raffle 673: ["9♦","Q♣","3♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 22
+RED BET: 600 chips, WON, total 26240
+
+Raffle 674: ["Q♠","4♠","5♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 19
+RED BET: 200 chips, LOST, total 26040
+
+Raffle 675: ["K♣","J♦","6♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 26
+RED BET: 400 chips, LOST, total 25640
+
+Raffle 676: ["7♠","5♠","Q♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 22
+RED BET: 600 chips, LOST, total 25040
+
+Raffle 677: ["3♥","5♠","3♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 11
+RED BET: 800 chips, LOST, total 24240
+
+Raffle 678: ["6♣","6♥","7♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 19
+RED BET: 1000 chips, WON, total 25140
+
+Raffle 679: ["T♣","K♠","5♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 25
+RED BET: 200 chips, LOST, total 24940
+
+Raffle 680: ["7♦","5♥","A♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 13
+RED BET: 400 chips, WON, total 25300
+
+Raffle 681: ["A♦","7♠","5♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 25100
+
+Raffle 682: ["J♥","8♠","K♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 28
+RED BET: 400 chips, LOST, total 24700
+
+Raffle 683: ["J♣","6♥","3♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 19
+RED BET: 600 chips, WON, total 25240
+
+Raffle 684: ["T♥","4♦","Q♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 24
+RED BET: 200 chips, WON, total 25420
+
+Raffle 685: ["2♣","A♦","K♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 25220
+
+Raffle 686: ["T♠","K♥","7♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 27
+RED BET: 400 chips, WON, total 25580
+
+Raffle 687: ["5♠","Q♥","6♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 21
+RED BET: 200 chips, LOST, total 25380
+
+Raffle 688: ["T♠","6♥","7♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 23
+RED BET: 400 chips, WON, total 25740
+
+Raffle 689: ["4♥","2♥","5♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 11
+RED BET: 200 chips, WON, total 25920
+
+Raffle 690: ["8♥","J♠","9♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 27
+RED BET: 200 chips, LOST, total 25720
+
+Raffle 691: ["6♥","7♦","A♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 14
+RED BET: 400 chips, WON, total 26080
+
+Raffle 692: ["5♣","K♠","5♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 20
+RED BET: 200 chips, LOST, total 25880
+
+Raffle 693: ["3♠","T♠","3♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 16
+RED BET: 400 chips, LOST, total 25480
+
+Raffle 694: ["9♠","9♥","7♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 25
+RED BET: 600 chips, WON, total 26020
+
+Raffle 695: ["T♦","8♣","7♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 25
+RED BET: 200 chips, LOST, total 25820
+
+Raffle 696: ["Q♣","3♣","K♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":3,"♥":0}, points: 23
+RED BET: 400 chips, LOST, total 25420
+
+Raffle 697: ["4♥","Q♣","Q♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 24
+RED BET: 600 chips, WON, total 25960
+
+Raffle 698: ["A♣","Q♦","T♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 25760
+
+Raffle 699: ["7♣","4♥","Q♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 21
+RED BET: 400 chips, WON, total 26120
+
+Raffle 700: ["Q♣","4♠","4♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 18
+RED BET: 200 chips, LOST, total 25920
+
+Raffle 701: ["3♠","6♦","7♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 16
+RED BET: 400 chips, WON, total 26280
+
+Raffle 702: ["6♣","5♥","4♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 15
+RED BET: 200 chips, LOST, total 26080
+
+Raffle 703: ["A♦","Q♠","J♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 21
+RED BET: 400 chips, LOST, total 25680
+
+Raffle 704: ["T♦","7♣","A♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 18
+RED BET: 600 chips, LOST, total 25080
+
+Raffle 705: ["T♥","K♦","Q♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 30
+RED BET: 800 chips, WON, total 25800
+
+Raffle 706: ["A♥","6♠","7♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 14
+RED BET: 200 chips, WON, total 25980
+
+Raffle 707: ["4♠","9♠","8♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 25780
+
+Raffle 708: ["T♣","A♦","3♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 14
+RED BET: 400 chips, WON, total 26140
+
+Raffle 709: ["K♥","K♠","A♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 21
+RED BET: 200 chips, WON, total 26320
+
+Raffle 710: ["8♣","A♠","Q♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 19
+RED BET: 200 chips, LOST, total 26120
+
+Raffle 711: ["3♣","K♣","6♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":3,"♥":0}, points: 19
+RED BET: 400 chips, LOST, total 25720
+
+Raffle 712: ["A♠","J♦","3♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 14
+RED BET: 600 chips, LOST, total 25120
+
+Raffle 713: ["7♦","3♣","K♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 20
+RED BET: 800 chips, LOST, total 24320
+
+Raffle 714: ["4♠","5♥","7♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 16
+RED BET: 1000 chips, LOST, total 23320
+
+Raffle 715: ["A♦","A♣","6♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 8
+RED BET: 200 chips, WON, total 23500
+
+Raffle 716: ["5♦","2♠","J♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 23300
+
+Raffle 717: ["J♠","4♠","7♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 21
+RED BET: 400 chips, LOST, total 22900
+
+Raffle 718: ["6♠","2♣","6♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 14
+RED BET: 600 chips, LOST, total 22300
+
+Raffle 719: ["6♠","4♣","8♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 18
+RED BET: 800 chips, LOST, total 21500
+
+Raffle 720: ["J♥","2♣","A♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 13
+RED BET: 1000 chips, WON, total 22400
+
+Raffle 721: ["T♠","9♠","J♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 29
+RED BET: 200 chips, LOST, total 22200
+
+Raffle 722: ["4♦","T♣","7♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 21
+RED BET: 400 chips, LOST, total 21800
+
+Raffle 723: ["6♦","2♠","7♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 15
+RED BET: 600 chips, WON, total 22340
+
+Raffle 724: ["9♠","Q♦","4♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 22140
+
+Raffle 725: ["4♥","8♥","4♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 16
+RED BET: 400 chips, WON, total 22500
+
+Raffle 726: ["4♦","K♣","7♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 21
+RED BET: 200 chips, WON, total 22680
+
+Raffle 727: ["4♠","6♥","8♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 18
+RED BET: 200 chips, LOST, total 22480
+
+Raffle 728: ["5♣","9♣","5♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 19
+RED BET: 400 chips, LOST, total 22080
+
+Raffle 729: ["8♠","J♥","T♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 28
+RED BET: 600 chips, WON, total 22620
+
+Raffle 730: ["2♦","9♣","4♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 22420
+
+Raffle 731: ["5♦","K♠","5♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 20
+RED BET: 400 chips, LOST, total 22020
+
+Raffle 732: ["8♣","8♥","A♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 17
+RED BET: 600 chips, WON, total 22560
+
+Raffle 733: ["T♠","A♠","5♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 16
+RED BET: 200 chips, LOST, total 22360
+
+Raffle 734: ["9♦","2♠","7♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 18
+RED BET: 400 chips, WON, total 22720
+
+Raffle 735: ["9♦","5♥","2♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 16
+RED BET: 200 chips, WON, total 22900
+
+Raffle 736: ["8♦","K♦","A♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 19
+RED BET: 200 chips, WON, total 23080
+
+Raffle 737: ["A♣","8♦","7♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 16
+RED BET: 200 chips, LOST, total 22880
+
+Raffle 738: ["4♣","Q♠","3♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 17
+RED BET: 400 chips, LOST, total 22480
+
+Raffle 739: ["3♥","3♦","K♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 16
+RED BET: 600 chips, WON, total 23020
+
+Raffle 740: ["6♣","K♣","T♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 26
+RED BET: 200 chips, LOST, total 22820
+
+Raffle 741: ["5♠","K♥","K♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 25
+RED BET: 400 chips, WON, total 23180
+
+Raffle 742: ["6♣","8♥","7♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 21
+RED BET: 200 chips, WON, total 23360
+
+Raffle 743: ["8♣","K♣","T♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 28
+RED BET: 200 chips, LOST, total 23160
+
+Raffle 744: ["3♥","A♣","A♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 5
+RED BET: 400 chips, WON, total 23520
+
+Raffle 745: ["8♥","9♦","7♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 24
+RED BET: 200 chips, WON, total 23700
+
+Raffle 746: ["3♠","K♦","2♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 15
+RED BET: 200 chips, WON, total 23880
+
+Raffle 747: ["4♦","4♣","8♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 16
+RED BET: 200 chips, LOST, total 23680
+
+Raffle 748: ["T♣","Q♥","2♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 22
+RED BET: 400 chips, WON, total 24040
+
+Raffle 749: ["A♠","Q♠","7♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 23840
+
+Raffle 750: ["K♦","3♦","Q♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 23
+RED BET: 400 chips, WON, total 24200
+
+Raffle 751: ["A♠","4♦","J♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 15
+RED BET: 200 chips, WON, total 24380
+
+Raffle 752: ["J♣","J♦","Q♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 30
+RED BET: 200 chips, WON, total 24560
+
+Raffle 753: ["8♠","A♠","9♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 24360
+
+Raffle 754: ["Q♥","3♥","A♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 14
+RED BET: 400 chips, WON, total 24720
+
+Raffle 755: ["T♠","A♣","6♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 24520
+
+Raffle 756: ["J♥","Q♣","7♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 27
+RED BET: 400 chips, WON, total 24880
+
+Raffle 757: ["T♠","A♥","J♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 21
+RED BET: 200 chips, LOST, total 24680
+
+Raffle 758: ["T♦","4♦","Q♠"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 24
+RED BET: 400 chips, WON, total 25040
+
+Raffle 759: ["Q♣","4♣","3♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":3,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 24840
+
+Raffle 760: ["A♦","4♥","J♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 15
+RED BET: 400 chips, WON, total 25200
+
+Raffle 761: ["6♣","6♥","T♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 22
+RED BET: 200 chips, WON, total 25380
+
+Raffle 762: ["T♣","8♦","4♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 22
+RED BET: 200 chips, LOST, total 25180
+
+Raffle 763: ["5♥","3♣","6♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 14
+RED BET: 400 chips, LOST, total 24780
+
+Raffle 764: ["4♣","Q♥","3♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 17
+RED BET: 600 chips, WON, total 25320
+
+Raffle 765: ["J♣","5♥","8♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 23
+RED BET: 200 chips, LOST, total 25120
+
+Raffle 766: ["2♦","3♣","T♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 15
+RED BET: 400 chips, LOST, total 24720
+
+Raffle 767: ["4♦","6♦","9♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 19
+RED BET: 600 chips, WON, total 25260
+
+Raffle 768: ["K♥","2♣","Q♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 22
+RED BET: 200 chips, WON, total 25440
+
+Raffle 769: ["4♠","J♠","8♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 22
+RED BET: 200 chips, LOST, total 25240
+
+Raffle 770: ["J♣","4♠","2♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 16
+RED BET: 400 chips, LOST, total 24840
+
+Raffle 771: ["8♦","A♥","A♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 10
+RED BET: 600 chips, WON, total 25380
+
+Raffle 772: ["4♥","J♠","Q♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 24
+RED BET: 200 chips, WON, total 25560
+
+Raffle 773: ["9♣","K♣","8♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 27
+RED BET: 200 chips, LOST, total 25360
+
+Raffle 774: ["5♥","Q♠","J♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 25
+RED BET: 400 chips, LOST, total 24960
+
+Raffle 775: ["2♣","8♣","A♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 11
+RED BET: 600 chips, LOST, total 24360
+
+Raffle 776: ["5♥","3♦","T♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 18
+RED BET: 800 chips, WON, total 25080
+
+Raffle 777: ["J♦","4♣","A♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 15
+RED BET: 200 chips, WON, total 25260
+
+Raffle 778: ["4♠","J♣","7♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 25060
+
+Raffle 779: ["8♣","4♠","9♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 21
+RED BET: 400 chips, LOST, total 24660
+
+Raffle 780: ["9♣","5♥","K♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 24
+RED BET: 600 chips, WON, total 25200
+
+Raffle 781: ["5♦","Q♦","8♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 23
+RED BET: 200 chips, WON, total 25380
+
+Raffle 782: ["8♣","4♠","7♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 19
+RED BET: 200 chips, LOST, total 25180
+
+Raffle 783: ["3♥","K♦","3♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 16
+RED BET: 400 chips, WON, total 25540
+
+Raffle 784: ["J♥","4♥","5♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 19
+RED BET: 200 chips, WON, total 25720
+
+Raffle 785: ["9♣","A♠","T♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 20
+RED BET: 200 chips, LOST, total 25520
+
+Raffle 786: ["2♠","3♦","7♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 12
+RED BET: 400 chips, LOST, total 25120
+
+Raffle 787: ["5♥","3♣","9♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 17
+RED BET: 600 chips, WON, total 25660
+
+Raffle 788: ["A♣","4♣","T♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 15
+RED BET: 200 chips, LOST, total 25460
+
+Raffle 789: ["6♦","6♠","Q♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 22
+RED BET: 400 chips, LOST, total 25060
+
+Raffle 790: ["T♠","J♠","6♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 26
+RED BET: 600 chips, LOST, total 24460
+
+Raffle 791: ["K♥","8♥","9♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 27
+RED BET: 800 chips, WON, total 25180
+
+Raffle 792: ["9♠","5♦","4♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 18
+RED BET: 200 chips, WON, total 25360
+
+Raffle 793: ["4♥","2♠","3♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 9
+RED BET: 200 chips, LOST, total 25160
+
+Raffle 794: ["3♦","A♠","8♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 12
+RED BET: 400 chips, LOST, total 24760
+
+Raffle 795: ["6♣","A♣","7♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":3,"♥":0}, points: 14
+RED BET: 600 chips, LOST, total 24160
+
+Raffle 796: ["2♦","Q♠","A♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 13
+RED BET: 800 chips, LOST, total 23360
+
+Raffle 797: ["3♥","8♠","5♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 16
+RED BET: 1000 chips, LOST, total 22360
+
+Raffle 798: ["2♥","T♠","T♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 22
+RED BET: 200 chips, LOST, total 22160
+
+Raffle 799: ["K♦","5♠","2♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 17
+RED BET: 400 chips, LOST, total 21760
+
+Raffle 800: ["6♥","7♥","T♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 23
+RED BET: 600 chips, WON, total 22300
+
+Raffle 801: ["3♠","T♥","3♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 16
+RED BET: 200 chips, WON, total 22480
+
+Raffle 802: ["A♦","K♠","J♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 22280
+
+Raffle 803: ["J♥","4♠","Q♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 24
+RED BET: 400 chips, WON, total 22640
+
+Raffle 804: ["9♠","2♣","2♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 22440
+
+Raffle 805: ["8♠","4♥","T♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 22
+RED BET: 400 chips, WON, total 22800
+
+Raffle 806: ["8♣","7♣","3♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 22600
+
+Raffle 807: ["Q♠","A♠","K♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 21
+RED BET: 400 chips, LOST, total 22200
+
+Raffle 808: ["8♠","Q♥","9♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 27
+RED BET: 600 chips, LOST, total 21600
+
+Raffle 809: ["9♥","T♦","A♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 20
+RED BET: 800 chips, WON, total 22320
+
+Raffle 810: ["J♠","K♣","9♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 29
+RED BET: 200 chips, LOST, total 22120
+
+Raffle 811: ["T♦","7♠","K♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 27
+RED BET: 400 chips, LOST, total 21720
+
+Raffle 812: ["4♣","3♥","3♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 10
+RED BET: 600 chips, LOST, total 21120
+
+Raffle 813: ["Q♠","2♣","6♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 18
+RED BET: 800 chips, LOST, total 20320
+
+Raffle 814: ["T♥","Q♦","2♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 22
+RED BET: 1000 chips, WON, total 21220
+
+Raffle 815: ["6♦","3♠","9♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 21020
+
+Raffle 816: ["9♦","7♥","6♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 22
+RED BET: 400 chips, WON, total 21380
+
+Raffle 817: ["6♦","K♦","T♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 26
+RED BET: 200 chips, WON, total 21560
+
+Raffle 818: ["K♣","5♣","4♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 19
+RED BET: 200 chips, LOST, total 21360
+
+Raffle 819: ["4♥","7♠","J♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 21
+RED BET: 400 chips, LOST, total 20960
+
+Raffle 820: ["2♣","7♥","9♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 18
+RED BET: 600 chips, LOST, total 20360
+
+Raffle 821: ["T♥","4♠","Q♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 24
+RED BET: 800 chips, WON, total 21080
+
+Raffle 822: ["4♥","3♠","K♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 17
+RED BET: 200 chips, LOST, total 20880
+
+Raffle 823: ["6♦","A♣","6♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 13
+RED BET: 400 chips, WON, total 21240
+
+Raffle 824: ["3♣","K♠","Q♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 21040
+
+Raffle 825: ["A♠","3♦","2♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 6
+RED BET: 400 chips, LOST, total 20640
+
+Raffle 826: ["T♦","A♣","5♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 16
+RED BET: 600 chips, LOST, total 20040
+
+Raffle 827: ["9♦","3♦","A♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 13
+RED BET: 800 chips, WON, total 20760
+
+Raffle 828: ["9♦","A♣","3♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 13
+RED BET: 200 chips, LOST, total 20560
+
+Raffle 829: ["6♥","J♦","K♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 26
+RED BET: 400 chips, WON, total 20920
+
+Raffle 830: ["T♥","K♣","3♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 23
+RED BET: 200 chips, LOST, total 20720
+
+Raffle 831: ["J♠","A♦","2♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 13
+RED BET: 400 chips, LOST, total 20320
+
+Raffle 832: ["6♣","4♥","Q♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 20
+RED BET: 600 chips, WON, total 20860
+
+Raffle 833: ["J♠","J♦","6♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 26
+RED BET: 200 chips, LOST, total 20660
+
+Raffle 834: ["9♥","J♣","5♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 24
+RED BET: 400 chips, LOST, total 20260
+
+Raffle 835: ["8♥","T♦","A♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 19
+RED BET: 600 chips, WON, total 20800
+
+Raffle 836: ["K♥","2♠","7♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 19
+RED BET: 200 chips, LOST, total 20600
+
+Raffle 837: ["2♥","T♣","9♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 21
+RED BET: 400 chips, WON, total 20960
+
+Raffle 838: ["4♠","A♥","J♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 15
+RED BET: 200 chips, WON, total 21140
+
+Raffle 839: ["6♥","6♦","K♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 22
+RED BET: 200 chips, WON, total 21320
+
+Raffle 840: ["9♦","4♠","3♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 16
+RED BET: 200 chips, LOST, total 21120
+
+Raffle 841: ["3♦","J♣","8♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 21
+RED BET: 400 chips, LOST, total 20720
+
+Raffle 842: ["3♠","J♣","T♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 23
+RED BET: 600 chips, LOST, total 20120
+
+Raffle 843: ["8♠","6♣","7♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 21
+RED BET: 800 chips, LOST, total 19320
+
+Raffle 844: ["A♠","T♥","7♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 18
+RED BET: 1000 chips, WON, total 20220
+
+Raffle 845: ["Q♣","A♥","A♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 12
+RED BET: 200 chips, LOST, total 20020
+
+Raffle 846: ["Q♠","T♥","7♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 27
+RED BET: 400 chips, LOST, total 19620
+
+Raffle 847: ["3♠","3♣","4♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 10
+RED BET: 600 chips, LOST, total 19020
+
+Raffle 848: ["9♥","5♦","A♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 15
+RED BET: 800 chips, WON, total 19740
+
+Raffle 849: ["9♦","7♣","A♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, WON, total 19920
+
+Raffle 850: ["2♦","9♠","6♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 19720
+
+Raffle 851: ["A♣","6♣","Q♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 17
+RED BET: 400 chips, LOST, total 19320
+
+Raffle 852: ["2♠","Q♠","6♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 18
+RED BET: 600 chips, LOST, total 18720
+
+Raffle 853: ["9♦","Q♠","8♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 27
+RED BET: 800 chips, WON, total 19440
+
+Raffle 854: ["K♣","9♠","4♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 23
+RED BET: 200 chips, LOST, total 19240
+
+Raffle 855: ["6♦","K♦","4♠"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 20
+RED BET: 400 chips, WON, total 19600
+
+Raffle 856: ["8♣","K♠","7♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 25
+RED BET: 200 chips, LOST, total 19400
+
+Raffle 857: ["5♣","9♣","5♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 19
+RED BET: 400 chips, LOST, total 19000
+
+Raffle 858: ["3♥","A♥","K♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 14
+RED BET: 600 chips, WON, total 19540
+
+Raffle 859: ["Q♠","K♦","5♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 25
+RED BET: 200 chips, LOST, total 19340
+
+Raffle 860: ["T♠","T♣","4♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 24
+RED BET: 400 chips, LOST, total 18940
+
+Raffle 861: ["J♠","A♦","T♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 21
+RED BET: 600 chips, WON, total 19480
+
+Raffle 862: ["Q♠","T♦","J♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 30
+RED BET: 200 chips, WON, total 19660
+
+Raffle 863: ["T♥","8♥","Q♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 28
+RED BET: 200 chips, WON, total 19840
+
+Raffle 864: ["A♦","5♠","J♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 16
+RED BET: 200 chips, LOST, total 19640
+
+Raffle 865: ["T♣","K♣","J♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 30
+RED BET: 400 chips, LOST, total 19240
+
+Raffle 866: ["2♦","5♦","J♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 17
+RED BET: 600 chips, WON, total 19780
+
+Raffle 867: ["5♣","6♣","A♦"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 12
+RED BET: 200 chips, LOST, total 19580
+
+Raffle 868: ["4♦","8♦","5♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 17
+RED BET: 400 chips, WON, total 19940
+
+Raffle 869: ["T♣","5♣","A♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 16
+RED BET: 200 chips, LOST, total 19740
+
+Raffle 870: ["K♠","7♠","A♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 18
+RED BET: 400 chips, LOST, total 19340
+
+Raffle 871: ["9♠","J♣","T♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 29
+RED BET: 600 chips, LOST, total 18740
+
+Raffle 872: ["Q♣","6♠","K♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 26
+RED BET: 800 chips, LOST, total 17940
+
+Raffle 873: ["2♣","K♥","5♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 17
+RED BET: 1000 chips, LOST, total 16940
+
+Raffle 874: ["T♦","J♣","7♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 27
+RED BET: 200 chips, WON, total 17120
+
+Raffle 875: ["6♣","7♠","9♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 22
+RED BET: 200 chips, LOST, total 16920
+
+Raffle 876: ["7♦","7♥","9♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 23
+RED BET: 400 chips, WON, total 17280
+
+Raffle 877: ["4♥","9♥","6♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 19
+RED BET: 200 chips, WON, total 17460
+
+Raffle 878: ["4♦","K♦","A♦"], color: RED, amount: {"♠":0,"♦":3,"♣":0,"♥":0}, points: 15
+RED BET: 200 chips, WON, total 17640
+
+Raffle 879: ["T♠","6♦","T♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 26
+RED BET: 200 chips, WON, total 17820
+
+Raffle 880: ["4♦","K♠","T♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 24
+RED BET: 200 chips, WON, total 18000
+
+Raffle 881: ["9♥","5♦","9♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 23
+RED BET: 200 chips, WON, total 18180
+
+Raffle 882: ["5♦","Q♥","Q♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 25
+RED BET: 200 chips, WON, total 18360
+
+Raffle 883: ["6♠","8♥","J♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 24
+RED BET: 200 chips, LOST, total 18160
+
+Raffle 884: ["4♥","4♣","9♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 17
+RED BET: 400 chips, LOST, total 17760
+
+Raffle 885: ["5♣","A♣","3♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 9
+RED BET: 600 chips, LOST, total 17160
+
+Raffle 886: ["3♦","5♥","5♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 13
+RED BET: 800 chips, WON, total 17880
+
+Raffle 887: ["5♥","J♠","8♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 23
+RED BET: 200 chips, LOST, total 17680
+
+Raffle 888: ["Q♦","9♠","J♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 29
+RED BET: 400 chips, LOST, total 17280
+
+Raffle 889: ["J♥","3♥","Q♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 23
+RED BET: 600 chips, WON, total 17820
+
+Raffle 890: ["J♣","T♥","T♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 30
+RED BET: 200 chips, LOST, total 17620
+
+Raffle 891: ["6♠","5♠","6♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 17
+RED BET: 400 chips, LOST, total 17220
+
+Raffle 892: ["5♦","Q♦","4♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 19
+RED BET: 600 chips, WON, total 17760
+
+Raffle 893: ["K♦","5♦","5♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 20
+RED BET: 200 chips, WON, total 17940
+
+Raffle 894: ["K♠","5♠","T♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 25
+RED BET: 200 chips, LOST, total 17740
+
+Raffle 895: ["T♠","K♦","5♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 25
+RED BET: 400 chips, WON, total 18100
+
+Raffle 896: ["2♦","7♠","Q♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 19
+RED BET: 200 chips, WON, total 18280
+
+Raffle 897: ["T♦","8♥","3♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 21
+RED BET: 200 chips, WON, total 18460
+
+Raffle 898: ["8♠","T♣","A♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 19
+RED BET: 200 chips, LOST, total 18260
+
+Raffle 899: ["2♣","3♦","6♣"], color: BLACK, amount: {"♠":0,"♦":1,"♣":2,"♥":0}, points: 11
+RED BET: 400 chips, LOST, total 17860
+
+Raffle 900: ["9♦","3♣","Q♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 22
+RED BET: 600 chips, LOST, total 17260
+
+Raffle 901: ["K♠","J♠","3♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 23
+RED BET: 800 chips, LOST, total 16460
+
+Raffle 902: ["4♥","3♠","K♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 17
+RED BET: 1000 chips, WON, total 17360
+
+Raffle 903: ["J♦","5♦","A♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 16
+RED BET: 200 chips, WON, total 17540
+
+Raffle 904: ["Q♠","9♠","7♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 26
+RED BET: 200 chips, LOST, total 17340
+
+Raffle 905: ["6♠","T♦","T♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 26
+RED BET: 400 chips, LOST, total 16940
+
+Raffle 906: ["T♥","4♦","4♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 18
+RED BET: 600 chips, WON, total 17480
+
+Raffle 907: ["7♠","A♠","8♦"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 16
+RED BET: 200 chips, LOST, total 17280
+
+Raffle 908: ["A♠","J♥","Q♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 21
+RED BET: 400 chips, WON, total 17640
+
+Raffle 909: ["A♥","3♠","T♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 14
+RED BET: 200 chips, LOST, total 17440
+
+Raffle 910: ["3♥","J♥","7♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 20
+RED BET: 400 chips, WON, total 17800
+
+Raffle 911: ["7♦","K♦","3♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 20
+RED BET: 200 chips, WON, total 17980
+
+Raffle 912: ["J♥","K♠","Q♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 30
+RED BET: 200 chips, LOST, total 17780
+
+Raffle 913: ["9♣","2♦","T♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 21
+RED BET: 400 chips, LOST, total 17380
+
+Raffle 914: ["4♣","3♣","T♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 17
+RED BET: 600 chips, LOST, total 16780
+
+Raffle 915: ["7♠","K♥","8♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 25
+RED BET: 800 chips, WON, total 17500
+
+Raffle 916: ["9♠","9♦","6♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 24
+RED BET: 200 chips, LOST, total 17300
+
+Raffle 917: ["3♦","9♠","9♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 21
+RED BET: 400 chips, WON, total 17660
+
+Raffle 918: ["Q♣","6♠","2♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 17460
+
+Raffle 919: ["Q♠","8♦","A♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 19
+RED BET: 400 chips, LOST, total 17060
+
+Raffle 920: ["4♦","8♣","Q♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 22
+RED BET: 600 chips, WON, total 17600
+
+Raffle 921: ["8♥","J♣","5♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 23
+RED BET: 200 chips, LOST, total 17400
+
+Raffle 922: ["T♦","5♥","3♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 18
+RED BET: 400 chips, WON, total 17760
+
+Raffle 923: ["3♥","K♥","8♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 21
+RED BET: 200 chips, WON, total 17940
+
+Raffle 924: ["A♥","J♣","K♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 21
+RED BET: 200 chips, LOST, total 17740
+
+Raffle 925: ["Q♦","7♠","T♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 27
+RED BET: 400 chips, WON, total 18100
+
+Raffle 926: ["J♥","5♠","K♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 25
+RED BET: 200 chips, WON, total 18280
+
+Raffle 927: ["5♠","4♣","K♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 19
+RED BET: 200 chips, LOST, total 18080
+
+Raffle 928: ["A♠","5♣","3♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 9
+RED BET: 400 chips, LOST, total 17680
+
+Raffle 929: ["5♥","T♦","9♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 24
+RED BET: 600 chips, WON, total 18220
+
+Raffle 930: ["A♠","T♦","3♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 14
+RED BET: 200 chips, WON, total 18400
+
+Raffle 931: ["4♥","A♥","J♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 15
+RED BET: 200 chips, WON, total 18580
+
+Raffle 932: ["Q♠","4♠","K♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 24
+RED BET: 200 chips, LOST, total 18380
+
+Raffle 933: ["3♥","6♠","T♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 19
+RED BET: 400 chips, LOST, total 17980
+
+Raffle 934: ["4♦","6♠","2♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 12
+RED BET: 600 chips, LOST, total 17380
+
+Raffle 935: ["9♥","4♠","7♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 20
+RED BET: 800 chips, WON, total 18100
+
+Raffle 936: ["3♦","8♠","5♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 16
+RED BET: 200 chips, LOST, total 17900
+
+Raffle 937: ["9♦","6♠","J♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 25
+RED BET: 400 chips, WON, total 18260
+
+Raffle 938: ["J♠","A♣","7♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 18
+RED BET: 200 chips, LOST, total 18060
+
+Raffle 939: ["5♥","A♥","5♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 11
+RED BET: 400 chips, WON, total 18420
+
+Raffle 940: ["J♥","A♦","6♥"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 17
+RED BET: 200 chips, WON, total 18600
+
+Raffle 941: ["4♣","6♠","7♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 17
+RED BET: 200 chips, LOST, total 18400
+
+Raffle 942: ["9♥","6♣","8♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 23
+RED BET: 400 chips, LOST, total 18000
+
+Raffle 943: ["4♠","Q♥","7♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 21
+RED BET: 600 chips, WON, total 18540
+
+Raffle 944: ["8♠","3♣","9♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 20
+RED BET: 200 chips, LOST, total 18340
+
+Raffle 945: ["4♠","A♣","5♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 10
+RED BET: 400 chips, LOST, total 17940
+
+Raffle 946: ["8♥","Q♣","J♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 28
+RED BET: 600 chips, LOST, total 17340
+
+Raffle 947: ["6♦","5♠","Q♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 21
+RED BET: 800 chips, WON, total 18060
+
+Raffle 948: ["7♠","8♦","2♠"], color: BLACK, amount: {"♠":2,"♦":1,"♣":0,"♥":0}, points: 17
+RED BET: 200 chips, LOST, total 17860
+
+Raffle 949: ["J♣","9♣","6♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 25
+RED BET: 400 chips, LOST, total 17460
+
+Raffle 950: ["3♠","2♥","T♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 15
+RED BET: 600 chips, LOST, total 16860
+
+Raffle 951: ["A♦","5♥","J♦"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 16
+RED BET: 800 chips, WON, total 17580
+
+Raffle 952: ["5♣","Q♥","2♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 17
+RED BET: 200 chips, LOST, total 17380
+
+Raffle 953: ["4♣","5♦","A♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 10
+RED BET: 400 chips, LOST, total 16980
+
+Raffle 954: ["3♠","J♠","8♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 21
+RED BET: 600 chips, LOST, total 16380
+
+Raffle 955: ["A♣","5♠","4♠"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 10
+RED BET: 800 chips, LOST, total 15580
+
+Raffle 956: ["8♦","K♥","K♣"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 28
+RED BET: 1000 chips, WON, total 16480
+
+Raffle 957: ["8♣","J♦","2♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 20
+RED BET: 200 chips, LOST, total 16280
+
+Raffle 958: ["7♠","K♣","5♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 22
+RED BET: 400 chips, LOST, total 15880
+
+Raffle 959: ["9♦","8♦","J♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 27
+RED BET: 600 chips, WON, total 16420
+
+Raffle 960: ["J♣","8♠","5♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":2,"♥":0}, points: 23
+RED BET: 200 chips, LOST, total 16220
+
+Raffle 961: ["3♣","2♦","T♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 15
+RED BET: 400 chips, WON, total 16580
+
+Raffle 962: ["K♥","8♠","T♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 28
+RED BET: 200 chips, LOST, total 16380
+
+Raffle 963: ["2♥","3♠","A♥"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 6
+RED BET: 400 chips, WON, total 16740
+
+Raffle 964: ["Q♦","6♣","A♦"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 17
+RED BET: 200 chips, WON, total 16920
+
+Raffle 965: ["5♥","2♥","J♠"], color: RED, amount: {"♠":1,"♦":0,"♣":0,"♥":2}, points: 17
+RED BET: 200 chips, WON, total 17100
+
+Raffle 966: ["6♣","4♣","Q♥"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 20
+RED BET: 200 chips, LOST, total 16900
+
+Raffle 967: ["A♦","4♦","2♥"], color: RED, amount: {"♠":0,"♦":2,"♣":0,"♥":1}, points: 7
+RED BET: 400 chips, WON, total 17260
+
+Raffle 968: ["2♥","8♥","J♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 20
+RED BET: 200 chips, WON, total 17440
+
+Raffle 969: ["5♠","8♥","3♦"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 16
+RED BET: 200 chips, WON, total 17620
+
+Raffle 970: ["5♦","2♠","7♦"], color: RED, amount: {"♠":1,"♦":2,"♣":0,"♥":0}, points: 14
+RED BET: 200 chips, WON, total 17800
+
+Raffle 971: ["K♦","6♣","5♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 17600
+
+Raffle 972: ["9♠","6♠","T♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 25
+RED BET: 400 chips, LOST, total 17200
+
+Raffle 973: ["7♣","T♥","8♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 25
+RED BET: 600 chips, WON, total 17740
+
+Raffle 974: ["A♠","8♠","T♠"], color: BLACK, amount: {"♠":3,"♦":0,"♣":0,"♥":0}, points: 19
+RED BET: 200 chips, LOST, total 17540
+
+Raffle 975: ["2♣","Q♦","2♥"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 14
+RED BET: 400 chips, WON, total 17900
+
+Raffle 976: ["6♦","7♥","Q♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 23
+RED BET: 200 chips, WON, total 18080
+
+Raffle 977: ["J♣","5♥","6♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 21
+RED BET: 200 chips, LOST, total 17880
+
+Raffle 978: ["A♠","5♥","2♣"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 8
+RED BET: 400 chips, LOST, total 17480
+
+Raffle 979: ["A♣","Q♠","Q♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 21
+RED BET: 600 chips, LOST, total 16880
+
+Raffle 980: ["8♠","9♠","7♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 24
+RED BET: 800 chips, LOST, total 16080
+
+Raffle 981: ["2♥","5♥","8♥"], color: RED, amount: {"♠":0,"♦":0,"♣":0,"♥":3}, points: 15
+RED BET: 1000 chips, WON, total 16980
+
+Raffle 982: ["8♣","7♥","J♠"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 25
+RED BET: 200 chips, LOST, total 16780
+
+Raffle 983: ["T♦","2♠","3♣"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 15
+RED BET: 400 chips, LOST, total 16380
+
+Raffle 984: ["T♠","3♦","K♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 23
+RED BET: 600 chips, WON, total 16920
+
+Raffle 985: ["4♠","A♠","Q♥"], color: BLACK, amount: {"♠":2,"♦":0,"♣":0,"♥":1}, points: 15
+RED BET: 200 chips, LOST, total 16720
+
+Raffle 986: ["T♠","4♣","2♥"], color: BLACK, amount: {"♠":1,"♦":0,"♣":1,"♥":1}, points: 16
+RED BET: 400 chips, LOST, total 16320
+
+Raffle 987: ["Q♣","K♥","T♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 30
+RED BET: 600 chips, WON, total 16860
+
+Raffle 988: ["K♦","6♠","T♥"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 26
+RED BET: 200 chips, WON, total 17040
+
+Raffle 989: ["7♣","T♥","9♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 26
+RED BET: 200 chips, WON, total 17220
+
+Raffle 990: ["2♥","J♣","A♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 13
+RED BET: 200 chips, WON, total 17400
+
+Raffle 991: ["5♦","9♦","J♣"], color: RED, amount: {"♠":0,"♦":2,"♣":1,"♥":0}, points: 24
+RED BET: 200 chips, WON, total 17580
+
+Raffle 992: ["6♣","7♦","A♠"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 14
+RED BET: 200 chips, LOST, total 17380
+
+Raffle 993: ["K♣","Q♥","T♥"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 30
+RED BET: 400 chips, WON, total 17740
+
+Raffle 994: ["8♠","3♠","Q♣"], color: BLACK, amount: {"♠":2,"♦":0,"♣":1,"♥":0}, points: 21
+RED BET: 200 chips, LOST, total 17540
+
+Raffle 995: ["5♣","6♥","8♣"], color: BLACK, amount: {"♠":0,"♦":0,"♣":2,"♥":1}, points: 19
+RED BET: 400 chips, LOST, total 17140
+
+Raffle 996: ["T♥","3♥","9♦"], color: RED, amount: {"♠":0,"♦":1,"♣":0,"♥":2}, points: 22
+RED BET: 600 chips, WON, total 17680
+
+Raffle 997: ["5♥","7♥","J♣"], color: RED, amount: {"♠":0,"♦":0,"♣":1,"♥":2}, points: 22
+RED BET: 200 chips, WON, total 17860
+
+Raffle 998: ["Q♣","K♠","2♦"], color: BLACK, amount: {"♠":1,"♦":1,"♣":1,"♥":0}, points: 22
+RED BET: 200 chips, LOST, total 17660
+
+Raffle 999: ["T♥","T♣","5♦"], color: RED, amount: {"♠":0,"♦":1,"♣":1,"♥":1}, points: 25
+RED BET: 400 chips, WON, total 18020
+
+Raffle 1000: ["T♥","6♦","9♠"], color: RED, amount: {"♠":1,"♦":1,"♣":0,"♥":1}, points: 25
+RED BET: 200 chips, WON, total 18200
+
+Final Chips: 18200
