@@ -4,8 +4,19 @@ import toPlay from "./main";
 const now = dayjs();
 const fileName : string = `simulation_${now.format('YYYY-MM-DD_HH')}h${now.format('mm')}m${now.format('ss')}s.txt`;
 
-toPlay(fileName, {
+toPlay(fileName,  {
     chips: 30000,
-    raffles: 1000,
-    
+    raffles: 1000, 
+    red: {
+        chips: 200,
+        multiplyUntil: 3
+    },
+    oneSpade: {
+        chips: 200,
+        multiplyUntil: 1
+    },
+    points3to19: {
+        chips: 400,
+        multiplyUntil: 2
+    }
 });

@@ -185,23 +185,112 @@ export const toPlay = (fileName: string, bet : Bet) : number => {
         }
 
         // One Spade bet
+        if(bet.oneSpade) {
+            let b = bet.oneSpade.chips;
+            for(let j = 0; j < wrong.oneSpade; j++) b *= 2;
+            chips -= b;
+            if(chips < 0) break;
 
+            if(a['♠'] === 1) {
+                chips += b * award.oneSpade;
+                wrong.oneSpade = 0;
+            } else {
+                if(bet.oneSpade.multiplyUntil > wrong.oneSpade) wrong.oneSpade++;
+                else wrong.oneSpade = 0;
+            }
+
+            addLine(file, `♠ BET: ${ b } chips, ${ a['♠'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
+        }
 
         // One Diamond bet
+        if(bet.oneDiamond) {
+            let b = bet.oneDiamond.chips;
+            for(let j = 0; j < wrong.oneDiamond; j++) b *= 2;
+            chips -= b;
+            if(chips < 0) break;
 
+            if(a['♦'] === 1) {
+                chips += b * award.oneDiamond;
+                wrong.oneDiamond = 0;
+            } else {
+                if(bet.oneDiamond.multiplyUntil > wrong.oneDiamond) wrong.oneDiamond++;
+                else wrong.oneDiamond = 0;
+            }
+
+            addLine(file, `♦ BET: ${ b } chips, ${ a['♦'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
+        }
 
         // One Club bet
+        if(bet.oneClub) {
+            let b = bet.oneClub.chips;
+            for(let j = 0; j < wrong.oneClub; j++) b *= 2;
+            chips -= b;
+            if(chips < 0) break;
 
+            if(a['♣'] === 1) {
+                chips += b * award.oneClub;
+                wrong.oneClub = 0;
+            } else {
+                if(bet.oneClub.multiplyUntil > wrong.oneClub) wrong.oneClub++;
+                else wrong.oneClub = 0;
+            }
+
+            addLine(file, `♣ BET: ${ b } chips, ${ a['♣'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
+        }
 
         // One Heart bet
+        if(bet.oneHeart) {
+            let b = bet.oneHeart.chips;
+            for(let j = 0; j < wrong.oneHeart; j++) b *= 2;
+            chips -= b;
+            if(chips < 0) break;
 
+            if(a['♥'] === 1) {
+                chips += b * award.oneHeart;
+                wrong.oneHeart = 0;
+            } else {
+                if(bet.oneHeart.multiplyUntil > wrong.oneHeart) wrong.oneHeart++;
+                else wrong.oneHeart = 0;
+            }
+
+            addLine(file, `♥ BET: ${ b } chips, ${ a['♥'] === 1 ? 'WON' : 'LOST' }, total ${ chips }`);
+        }
 
         // Points 3 to 19 bet
+        if(bet.points3to19) {
+            let b = bet.points3to19.chips;
+            for(let j = 0; j < wrong.points3to19; j++) b *= 2;
+            chips -= b;
+            if(chips < 0) break;
 
+            if(p >= 3 && p <= 19) {
+                chips += b * award.points3to19;
+                wrong.points3to19 = 0;
+            } else {
+                if(bet.points3to19.multiplyUntil > wrong.points3to19) wrong.points3to19++;
+                else wrong.points3to19 = 0;
+            }
+
+            addLine(file, `POINTS 3-19 BET: ${ b } chips, ${ (p >= 3 && p <= 19) ? 'WON' : 'LOST' }, total ${ chips }`);
+        }
 
         // Points 20 to 30 bet
+        if(bet.points20to30) {
+            let b = bet.points20to30.chips;
+            for(let j = 0; j < wrong.points20to30; j++) b *= 2;
+            chips -= b;
+            if(chips < 0) break;
 
-        
+            if(p >= 20 && p <= 30) {
+                chips += b * award.points20to30;
+                wrong.points20to30 = 0;
+            } else {
+                if(bet.points20to30.multiplyUntil > wrong.points20to30) wrong.points20to30++;
+                else wrong.points20to30 = 0;
+            }
+
+            addLine(file, `POINTS 20-30 BET: ${ b } chips, ${ (p >= 20 && p <= 30) ? 'WON' : 'LOST' }, total ${ chips }`);
+        }
 
     }
 
