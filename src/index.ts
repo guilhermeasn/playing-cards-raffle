@@ -14,7 +14,7 @@ const media = (array: number[]): number => {
 
 const now = dayjs();
 const fileName : string = `simulation_${now.format('YYYY-MM-DD_HH')}h${now.format('mm')}m${now.format('ss')}s_${ Math.random().toString(36).substr(2, 9) }`;
-const bet : Bet = bets[3];
+const bet : Bet = bets[10];
 
 toPlay(bet, fileName);
 
