@@ -7,11 +7,6 @@
  */
 type Suit = '♠' | '♦' | '♣' | '♥';
 
-type BetChips = {
-    chips: number;
-    increase: number;
-}
-
 type BetOption = (
     | 'red'
     | 'black'
@@ -23,10 +18,15 @@ type BetOption = (
     | 'points20to30'
 );
 
+type BetChips = {
+    chips: number;
+    multiplyUntil: number;
+}
+
 type Bet = {
     chips: number;
     raffles: number;
-} & Record<BetOption, BetChips>;
+} & Partial<Record<BetOption, BetChips>>;
 
 const award : Record<BetOption, number> = {
     red: 1.9,
@@ -117,45 +117,56 @@ const toPlay = (bet : Bet) : number => {
 
     let chips = bet.chips;
 
-    for(let r = 0; r < bet.raffles; r++) {
+    console.log(`Chips: ${chips}`);
+
+    let wrong : Record<BetOption, number> = {
+        red: 0,
+        black: 0,
+        oneSpade: 0,
+        oneDiamond: 0,
+        oneClub: 0,
+        oneHeart: 0,
+        points3to19: 0,
+        points20to30: 0
+    };
+
+    for(let c = 0; c < bet.raffles; c++) {
         
+        const r = raffle();
+        const c = color(r);
+        const a = amount(r);
+        const p = points(r);
+
+        if(bet.red) {
+
+            const b = bet.red.chips * (wrong.red + 1)
+            chips -= b;
+            
+            if(c === 'RED') {
+                chips += b * award.red;
+                wrong.red = 0;
+            } else {
+                if(bet.red.multiplyUntil < wrong.red) wrong.red++;
+                else wrong.red = 0;
+            }
+
+        }
+
+        console.log(r, c, a, p, chips);
+
     }
+
+    console.log(`Chips: ${chips}`);
 
     return chips;
 
 }
 
-const main = () => {
-
-    let chips : number = 30000;
-    let errors : number = 0;
-    const bet : number = 200;
-
-    let a : number = 0;
-    
-    while (chips > 0) {
-
-        a++;
-
-        const r = raffle();
-        const c = color(r);
-        const b = bet * (errors + 1);
-        
-        chips -= bet;
-        
-        if(c === 'RED') {
-            chips += bet * 1.9;
-            errors = 0;
-        } else {
-            errors > 1 ? errors = 0 : errors++;
-        }
-
-        console.log(r, c, amount(r), points(r), b, chips);
-
+toPlay({
+    chips: 30000,
+    raffles: 1000,
+    red: {
+        chips: 200,
+        multiplyUntil: 1
     }
-
-    console.log(a);
-
-}
-
-main();
+});
